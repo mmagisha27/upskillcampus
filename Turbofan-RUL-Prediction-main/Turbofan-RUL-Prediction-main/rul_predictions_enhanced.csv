@@ -1,0 +1,4128 @@
+Actual_RUL,Predicted_RUL,Status
+79.0,79.91,Maintenance Soon
+2.0,8.88,Critical
+34.0,33.0,Maintenance Soon
+17.0,20.74,Critical
+74.0,71.01,Maintenance Soon
+114.0,114.29,Healthy
+87.0,86.81,Maintenance Soon
+50.0,50.48,Maintenance Soon
+73.0,73.34,Maintenance Soon
+2.0,2.17,Critical
+96.0,96.98,Maintenance Soon
+106.0,106.31,Healthy
+110.0,109.65,Healthy
+161.0,160.73,Healthy
+139.0,139.13,Healthy
+144.0,145.43,Healthy
+157.0,156.25,Healthy
+29.0,31.28,Maintenance Soon
+127.0,128.15,Healthy
+29.0,36.11,Maintenance Soon
+28.0,33.13,Maintenance Soon
+98.0,96.66,Maintenance Soon
+191.0,191.89,Healthy
+107.0,106.96,Healthy
+87.0,89.75,Maintenance Soon
+155.0,155.41,Healthy
+152.0,152.43,Healthy
+51.0,48.32,Maintenance Soon
+275.0,275.37,Healthy
+55.0,56.05,Maintenance Soon
+162.0,161.75,Healthy
+51.0,52.4,Maintenance Soon
+56.0,48.42,Maintenance Soon
+146.0,147.88,Healthy
+137.0,137.34,Healthy
+137.0,137.41,Healthy
+10.0,9.28,Critical
+158.0,158.1,Healthy
+29.0,32.4,Maintenance Soon
+155.0,155.36,Healthy
+39.0,37.69,Maintenance Soon
+136.0,136.02,Healthy
+4.0,6.29,Critical
+93.0,91.69,Maintenance Soon
+110.0,109.41,Healthy
+61.0,61.34,Maintenance Soon
+98.0,98.85,Maintenance Soon
+153.0,153.36,Healthy
+115.0,115.1,Healthy
+69.0,72.28,Maintenance Soon
+135.0,134.98,Healthy
+84.0,84.12,Maintenance Soon
+96.0,95.72,Maintenance Soon
+19.0,7.18,Critical
+21.0,23.0,Critical
+135.0,135.26,Healthy
+186.0,186.1,Healthy
+44.0,39.46,Maintenance Soon
+140.0,139.14,Healthy
+40.0,36.7,Maintenance Soon
+161.0,160.79,Healthy
+125.0,125.99,Healthy
+110.0,110.5,Healthy
+129.0,128.79,Healthy
+0.0,8.55,Critical
+25.0,27.08,Critical
+54.0,46.44,Maintenance Soon
+56.0,54.09,Maintenance Soon
+37.0,35.02,Maintenance Soon
+91.0,90.66,Maintenance Soon
+87.0,87.73,Maintenance Soon
+104.0,104.08,Healthy
+98.0,97.68,Maintenance Soon
+66.0,65.16,Maintenance Soon
+137.0,137.09,Healthy
+190.0,190.34,Healthy
+73.0,73.78,Maintenance Soon
+72.0,71.76,Maintenance Soon
+111.0,110.74,Healthy
+94.0,93.93,Maintenance Soon
+124.0,123.71,Healthy
+109.0,108.88,Healthy
+166.0,166.19,Healthy
+84.0,84.92,Maintenance Soon
+152.0,151.79,Healthy
+82.0,73.92,Maintenance Soon
+186.0,186.22,Healthy
+109.0,109.22,Healthy
+89.0,89.2,Maintenance Soon
+34.0,33.46,Maintenance Soon
+32.0,15.37,Critical
+50.0,37.04,Maintenance Soon
+192.0,191.46,Healthy
+119.0,118.87,Healthy
+174.0,173.77,Healthy
+14.0,9.52,Critical
+86.0,85.02,Maintenance Soon
+133.0,132.85,Healthy
+2.0,14.9,Critical
+60.0,61.67,Maintenance Soon
+8.0,9.47,Critical
+87.0,87.12,Maintenance Soon
+158.0,158.04,Healthy
+173.0,173.3,Healthy
+170.0,167.14,Healthy
+118.0,120.57,Healthy
+30.0,30.36,Maintenance Soon
+178.0,177.15,Healthy
+102.0,101.1,Healthy
+103.0,102.37,Healthy
+93.0,93.43,Maintenance Soon
+7.0,15.84,Critical
+27.0,28.08,Critical
+153.0,152.72,Healthy
+121.0,121.7,Healthy
+36.0,27.15,Critical
+44.0,44.01,Maintenance Soon
+47.0,46.89,Maintenance Soon
+146.0,146.41,Healthy
+69.0,67.96,Maintenance Soon
+13.0,7.69,Critical
+146.0,146.5,Healthy
+81.0,76.45,Maintenance Soon
+277.0,276.43,Healthy
+161.0,159.51,Healthy
+285.0,284.91,Healthy
+209.0,209.18,Healthy
+164.0,163.94,Healthy
+39.0,40.1,Maintenance Soon
+9.0,6.22,Critical
+98.0,97.98,Maintenance Soon
+124.0,124.0,Healthy
+8.0,10.38,Critical
+89.0,88.67,Maintenance Soon
+244.0,243.22,Healthy
+143.0,143.36,Healthy
+113.0,112.62,Healthy
+128.0,127.87,Healthy
+188.0,188.04,Healthy
+177.0,177.11,Healthy
+81.0,80.51,Maintenance Soon
+175.0,174.99,Healthy
+100.0,100.48,Healthy
+176.0,175.38,Healthy
+129.0,129.47,Healthy
+62.0,60.76,Maintenance Soon
+140.0,139.74,Healthy
+151.0,151.83,Healthy
+188.0,188.11,Healthy
+38.0,36.16,Maintenance Soon
+37.0,31.39,Maintenance Soon
+18.0,16.94,Critical
+34.0,31.52,Maintenance Soon
+295.0,291.52,Healthy
+117.0,117.31,Healthy
+58.0,58.68,Maintenance Soon
+66.0,45.11,Maintenance Soon
+2.0,2.95,Critical
+57.0,57.1,Maintenance Soon
+59.0,60.03,Maintenance Soon
+252.0,249.79,Healthy
+172.0,172.57,Healthy
+5.0,10.25,Critical
+32.0,30.52,Maintenance Soon
+110.0,109.45,Healthy
+102.0,102.1,Healthy
+147.0,146.56,Healthy
+49.0,49.42,Maintenance Soon
+175.0,175.37,Healthy
+193.0,192.81,Healthy
+154.0,153.95,Healthy
+100.0,99.51,Maintenance Soon
+117.0,118.47,Healthy
+141.0,141.31,Healthy
+106.0,105.45,Healthy
+189.0,188.82,Healthy
+95.0,78.29,Maintenance Soon
+237.0,239.45,Healthy
+109.0,108.78,Healthy
+258.0,258.02,Healthy
+72.0,70.43,Maintenance Soon
+271.0,270.56,Healthy
+11.0,8.93,Critical
+107.0,106.61,Healthy
+51.0,51.93,Maintenance Soon
+10.0,6.89,Critical
+183.0,182.91,Healthy
+11.0,5.77,Critical
+177.0,174.84,Healthy
+212.0,210.81,Healthy
+52.0,59.11,Maintenance Soon
+174.0,174.45,Healthy
+73.0,73.06,Maintenance Soon
+154.0,154.13,Healthy
+38.0,39.61,Maintenance Soon
+156.0,156.26,Healthy
+88.0,89.9,Maintenance Soon
+202.0,202.31,Healthy
+98.0,98.33,Maintenance Soon
+153.0,153.51,Healthy
+53.0,53.02,Maintenance Soon
+35.0,40.63,Maintenance Soon
+22.0,12.62,Critical
+117.0,117.29,Healthy
+57.0,56.87,Maintenance Soon
+250.0,250.31,Healthy
+184.0,183.62,Healthy
+10.0,7.03,Critical
+67.0,66.52,Maintenance Soon
+29.0,32.77,Maintenance Soon
+136.0,137.16,Healthy
+155.0,155.27,Healthy
+41.0,40.9,Maintenance Soon
+93.0,92.5,Maintenance Soon
+13.0,11.18,Critical
+8.0,16.99,Critical
+40.0,40.4,Maintenance Soon
+95.0,94.06,Maintenance Soon
+91.0,90.55,Maintenance Soon
+80.0,80.39,Maintenance Soon
+177.0,177.24,Healthy
+125.0,126.89,Healthy
+64.0,62.63,Maintenance Soon
+71.0,74.81,Maintenance Soon
+151.0,149.99,Healthy
+131.0,130.89,Healthy
+93.0,92.62,Maintenance Soon
+9.0,16.85,Critical
+11.0,20.09,Critical
+245.0,242.62,Healthy
+259.0,258.74,Healthy
+145.0,144.77,Healthy
+22.0,23.36,Critical
+132.0,131.43,Healthy
+116.0,116.25,Healthy
+23.0,27.11,Critical
+197.0,197.77,Healthy
+67.0,68.16,Maintenance Soon
+207.0,207.26,Healthy
+139.0,135.22,Healthy
+116.0,116.39,Healthy
+52.0,53.5,Maintenance Soon
+34.0,37.25,Maintenance Soon
+160.0,159.68,Healthy
+90.0,88.48,Maintenance Soon
+114.0,113.86,Healthy
+52.0,52.16,Maintenance Soon
+54.0,53.31,Maintenance Soon
+76.0,75.95,Maintenance Soon
+77.0,76.73,Maintenance Soon
+127.0,126.49,Healthy
+43.0,43.73,Maintenance Soon
+42.0,46.8,Maintenance Soon
+62.0,61.78,Maintenance Soon
+162.0,162.74,Healthy
+236.0,237.27,Healthy
+195.0,195.22,Healthy
+173.0,172.99,Healthy
+101.0,100.28,Healthy
+158.0,157.71,Healthy
+37.0,44.01,Maintenance Soon
+194.0,193.51,Healthy
+61.0,61.0,Maintenance Soon
+161.0,160.1,Healthy
+109.0,109.4,Healthy
+77.0,76.55,Maintenance Soon
+67.0,67.26,Maintenance Soon
+178.0,178.8,Healthy
+135.0,135.3,Healthy
+10.0,6.74,Critical
+19.0,24.16,Critical
+119.0,119.21,Healthy
+123.0,123.25,Healthy
+42.0,35.86,Maintenance Soon
+144.0,144.52,Healthy
+97.0,96.92,Maintenance Soon
+18.0,14.03,Critical
+54.0,53.04,Maintenance Soon
+30.0,30.19,Maintenance Soon
+95.0,94.45,Maintenance Soon
+74.0,72.93,Maintenance Soon
+109.0,109.07,Healthy
+24.0,21.85,Critical
+82.0,81.21,Maintenance Soon
+108.0,107.2,Healthy
+132.0,130.53,Healthy
+144.0,143.81,Healthy
+255.0,256.35,Healthy
+86.0,87.16,Maintenance Soon
+142.0,142.65,Healthy
+50.0,49.6,Maintenance Soon
+255.0,254.92,Healthy
+159.0,157.97,Healthy
+130.0,130.39,Healthy
+149.0,149.8,Healthy
+179.0,179.74,Healthy
+12.0,15.72,Critical
+151.0,149.98,Healthy
+42.0,43.65,Maintenance Soon
+4.0,4.16,Critical
+129.0,128.33,Healthy
+20.0,25.35,Critical
+148.0,147.74,Healthy
+230.0,229.96,Healthy
+223.0,222.63,Healthy
+139.0,139.45,Healthy
+48.0,46.06,Maintenance Soon
+78.0,78.37,Maintenance Soon
+172.0,171.89,Healthy
+87.0,85.95,Maintenance Soon
+217.0,216.3,Healthy
+226.0,226.61,Healthy
+70.0,69.39,Maintenance Soon
+67.0,64.19,Maintenance Soon
+22.0,17.97,Critical
+76.0,75.33,Maintenance Soon
+124.0,123.4,Healthy
+65.0,64.7,Maintenance Soon
+198.0,197.2,Healthy
+160.0,160.39,Healthy
+155.0,154.45,Healthy
+121.0,120.89,Healthy
+57.0,54.44,Maintenance Soon
+86.0,86.71,Maintenance Soon
+11.0,5.44,Critical
+182.0,182.14,Healthy
+98.0,97.92,Maintenance Soon
+17.0,25.61,Critical
+200.0,198.94,Healthy
+180.0,180.08,Healthy
+114.0,113.67,Healthy
+56.0,56.06,Maintenance Soon
+280.0,283.42,Healthy
+33.0,35.17,Maintenance Soon
+158.0,158.36,Healthy
+82.0,82.27,Maintenance Soon
+72.0,72.73,Maintenance Soon
+100.0,100.1,Healthy
+233.0,231.46,Healthy
+63.0,62.98,Maintenance Soon
+111.0,110.64,Healthy
+155.0,155.69,Healthy
+14.0,15.96,Critical
+116.0,115.83,Healthy
+3.0,7.97,Critical
+65.0,64.14,Maintenance Soon
+120.0,120.8,Healthy
+93.0,85.63,Maintenance Soon
+157.0,157.02,Healthy
+10.0,4.56,Critical
+19.0,27.92,Critical
+24.0,23.45,Critical
+83.0,81.87,Maintenance Soon
+130.0,129.88,Healthy
+81.0,82.88,Maintenance Soon
+190.0,190.71,Healthy
+9.0,15.03,Critical
+137.0,137.03,Healthy
+106.0,107.31,Healthy
+112.0,111.7,Healthy
+61.0,60.22,Maintenance Soon
+148.0,147.91,Healthy
+27.0,22.32,Critical
+156.0,155.64,Healthy
+50.0,51.32,Maintenance Soon
+218.0,217.62,Healthy
+189.0,188.17,Healthy
+262.0,262.4,Healthy
+73.0,71.69,Maintenance Soon
+208.0,209.15,Healthy
+128.0,127.99,Healthy
+135.0,135.02,Healthy
+224.0,225.37,Healthy
+49.0,49.31,Maintenance Soon
+65.0,65.98,Maintenance Soon
+122.0,118.82,Healthy
+207.0,205.32,Healthy
+222.0,222.01,Healthy
+29.0,31.37,Maintenance Soon
+107.0,107.59,Healthy
+40.0,38.61,Maintenance Soon
+116.0,117.3,Healthy
+104.0,102.94,Healthy
+49.0,48.2,Maintenance Soon
+174.0,174.28,Healthy
+24.0,29.73,Critical
+122.0,121.35,Healthy
+124.0,124.47,Healthy
+149.0,149.83,Healthy
+80.0,79.9,Maintenance Soon
+24.0,21.97,Critical
+23.0,22.72,Critical
+87.0,87.05,Maintenance Soon
+126.0,125.52,Healthy
+102.0,101.7,Healthy
+120.0,119.85,Healthy
+108.0,107.58,Healthy
+111.0,112.65,Healthy
+32.0,32.94,Maintenance Soon
+170.0,170.1,Healthy
+29.0,33.47,Maintenance Soon
+72.0,71.39,Maintenance Soon
+61.0,61.2,Maintenance Soon
+170.0,169.03,Healthy
+85.0,84.34,Maintenance Soon
+70.0,70.57,Maintenance Soon
+19.0,22.94,Critical
+47.0,47.19,Maintenance Soon
+132.0,131.94,Healthy
+127.0,127.06,Healthy
+166.0,165.88,Healthy
+189.0,188.32,Healthy
+109.0,109.01,Healthy
+166.0,166.07,Healthy
+161.0,163.14,Healthy
+188.0,188.57,Healthy
+130.0,129.88,Healthy
+43.0,42.29,Maintenance Soon
+115.0,114.59,Healthy
+41.0,40.96,Maintenance Soon
+229.0,229.17,Healthy
+7.0,4.87,Critical
+307.0,307.24,Healthy
+54.0,50.32,Maintenance Soon
+95.0,93.35,Maintenance Soon
+150.0,149.38,Healthy
+30.0,29.58,Critical
+136.0,135.81,Healthy
+155.0,154.81,Healthy
+147.0,145.06,Healthy
+180.0,182.79,Healthy
+85.0,81.53,Maintenance Soon
+90.0,90.34,Maintenance Soon
+18.0,21.76,Critical
+1288.47,1289.1400000000008,Healthy
+312.0,311.54,Healthy
+169.0,169.18,Healthy
+20.0,23.5,Critical
+43.0,42.99,Maintenance Soon
+18.0,20.39,Critical
+59.0,55.69,Maintenance Soon
+7.0,9.31,Critical
+78.0,78.24,Maintenance Soon
+8.0,6.78,Critical
+23.0,21.91,Critical
+253.0,251.12,Healthy
+225.0,223.52,Healthy
+175.0,174.89,Healthy
+146.0,145.38,Healthy
+103.0,103.12,Healthy
+187.0,187.23,Healthy
+42.0,39.98,Maintenance Soon
+330.0,325.8,Healthy
+48.0,47.99,Maintenance Soon
+136.0,136.18,Healthy
+151.0,152.1,Healthy
+82.0,82.58,Maintenance Soon
+129.0,128.64,Healthy
+225.0,225.32,Healthy
+196.0,195.21,Healthy
+265.0,267.56,Healthy
+76.0,75.89,Maintenance Soon
+115.0,114.83,Healthy
+101.0,100.6,Healthy
+20.0,23.32,Critical
+31.0,31.8,Maintenance Soon
+194.0,194.98,Healthy
+193.0,192.14,Healthy
+270.0,269.64,Healthy
+18.0,18.13,Critical
+69.0,69.56,Maintenance Soon
+65.0,63.36,Maintenance Soon
+47.0,54.44,Maintenance Soon
+70.0,68.91,Maintenance Soon
+16.0,19.75,Critical
+2.0,5.31,Critical
+17.0,19.79,Critical
+179.0,179.56,Healthy
+17.0,25.25,Critical
+160.0,160.13,Healthy
+248.0,247.06,Healthy
+80.0,79.33,Maintenance Soon
+287.0,285.14,Healthy
+78.0,74.82,Maintenance Soon
+81.0,81.22,Maintenance Soon
+20.0,20.44,Critical
+102.0,102.38,Healthy
+30.0,30.42,Maintenance Soon
+182.0,180.95,Healthy
+285.0,282.06,Healthy
+22.0,19.15,Critical
+104.0,104.53,Healthy
+108.0,107.59,Healthy
+73.0,72.39,Maintenance Soon
+23.0,16.97,Critical
+115.0,116.35,Healthy
+173.0,172.95,Healthy
+124.0,120.84,Healthy
+170.0,170.03,Healthy
+183.0,182.44,Healthy
+96.0,96.84,Maintenance Soon
+140.0,140.92,Healthy
+130.0,129.95,Healthy
+78.0,77.43,Maintenance Soon
+121.0,120.53,Healthy
+163.0,163.24,Healthy
+155.0,154.62,Healthy
+183.0,183.55,Healthy
+40.0,38.96,Maintenance Soon
+189.0,189.3,Healthy
+106.0,90.45,Maintenance Soon
+105.0,104.34,Healthy
+224.0,223.63,Healthy
+120.0,120.85,Healthy
+9.0,7.46,Critical
+141.0,141.07,Healthy
+101.0,100.29,Healthy
+25.0,24.76,Critical
+50.0,47.48,Maintenance Soon
+133.0,133.35,Healthy
+120.0,119.86,Healthy
+56.0,54.86,Maintenance Soon
+0.0,2.01,Critical
+253.0,255.08,Healthy
+86.0,86.34,Maintenance Soon
+31.0,31.49,Maintenance Soon
+153.0,152.73,Healthy
+1.0,2.5,Critical
+45.0,44.7,Maintenance Soon
+155.0,155.03,Healthy
+67.0,67.31,Maintenance Soon
+24.0,24.1,Critical
+96.0,91.83,Maintenance Soon
+71.0,70.66,Maintenance Soon
+107.0,106.78,Healthy
+123.0,122.79,Healthy
+174.0,174.31,Healthy
+32.0,28.3,Critical
+129.0,129.52,Healthy
+21.0,18.3,Critical
+70.0,70.07,Maintenance Soon
+106.0,105.17,Healthy
+102.0,94.07,Maintenance Soon
+209.0,209.0,Healthy
+48.0,56.52,Maintenance Soon
+98.0,98.11,Maintenance Soon
+136.0,136.08,Healthy
+46.0,45.72,Maintenance Soon
+114.0,113.82,Healthy
+95.0,95.44,Maintenance Soon
+157.0,157.4,Healthy
+60.0,60.92,Maintenance Soon
+21.0,26.71,Critical
+101.0,101.88,Healthy
+108.0,108.86,Healthy
+197.0,196.83,Healthy
+8.0,8.36,Critical
+164.0,164.18,Healthy
+143.0,141.9,Healthy
+250.0,250.2,Healthy
+75.0,75.39,Maintenance Soon
+19.0,17.33,Critical
+189.0,189.0,Healthy
+70.0,63.01,Maintenance Soon
+103.0,102.73,Healthy
+62.0,63.6,Maintenance Soon
+9.0,12.68,Critical
+64.0,54.26,Maintenance Soon
+62.0,61.54,Maintenance Soon
+135.0,135.11,Healthy
+161.0,160.8,Healthy
+1373.47,1374.750000000001,Healthy
+6.0,8.05,Critical
+152.0,152.43,Healthy
+134.0,134.35,Healthy
+88.0,87.93,Maintenance Soon
+45.0,44.61,Maintenance Soon
+129.0,130.01,Healthy
+71.0,70.87,Maintenance Soon
+39.0,37.9,Maintenance Soon
+65.0,63.1,Maintenance Soon
+68.0,67.97,Maintenance Soon
+187.0,184.32,Healthy
+193.0,193.24,Healthy
+170.0,169.74,Healthy
+54.0,57.15,Maintenance Soon
+6.0,6.91,Critical
+77.0,71.95,Maintenance Soon
+157.0,157.02,Healthy
+51.0,51.44,Maintenance Soon
+111.0,110.89,Healthy
+260.0,260.08,Healthy
+264.0,259.16,Healthy
+193.0,193.36,Healthy
+188.0,187.24,Healthy
+269.0,266.18,Healthy
+126.0,126.0,Healthy
+164.0,163.08,Healthy
+61.0,62.26,Maintenance Soon
+229.0,227.35,Healthy
+28.0,37.29,Maintenance Soon
+153.0,152.91,Healthy
+77.0,75.88,Maintenance Soon
+105.0,104.86,Healthy
+164.0,164.43,Healthy
+78.0,77.56,Maintenance Soon
+233.0,232.37,Healthy
+159.0,158.39,Healthy
+40.0,47.69,Maintenance Soon
+121.0,120.98,Healthy
+166.0,165.75,Healthy
+126.0,126.18,Healthy
+85.0,85.41,Maintenance Soon
+133.0,133.04,Healthy
+127.0,127.52,Healthy
+34.0,39.74,Maintenance Soon
+54.0,54.01,Maintenance Soon
+145.0,145.64,Healthy
+53.0,55.64,Maintenance Soon
+99.0,98.18,Maintenance Soon
+191.0,192.29,Healthy
+99.0,98.07,Maintenance Soon
+152.0,151.44,Healthy
+15.0,13.72,Critical
+241.0,242.57,Healthy
+137.0,136.75,Healthy
+140.0,136.41,Healthy
+137.0,136.75,Healthy
+118.0,117.59,Healthy
+173.0,172.91,Healthy
+155.0,155.14,Healthy
+109.0,106.96,Healthy
+179.0,177.81,Healthy
+53.0,52.5,Maintenance Soon
+203.0,203.45,Healthy
+150.0,149.17,Healthy
+67.0,68.63,Maintenance Soon
+147.0,146.45,Healthy
+131.0,131.09,Healthy
+127.0,126.91,Healthy
+148.0,147.97,Healthy
+34.0,34.76,Maintenance Soon
+8.0,14.48,Critical
+182.0,182.0,Healthy
+180.0,179.92,Healthy
+63.0,64.48,Maintenance Soon
+15.0,14.49,Critical
+47.0,44.54,Maintenance Soon
+3.0,6.53,Critical
+16.0,21.79,Critical
+99.0,98.46,Maintenance Soon
+222.0,221.39,Healthy
+42.0,42.1,Maintenance Soon
+35.0,41.81,Maintenance Soon
+33.0,36.08,Maintenance Soon
+183.0,182.93,Healthy
+135.0,134.68,Healthy
+130.0,130.4,Healthy
+272.0,273.62,Healthy
+140.0,139.85,Healthy
+50.0,50.67,Maintenance Soon
+184.0,183.85,Healthy
+164.0,162.8,Healthy
+33.0,32.04,Maintenance Soon
+33.0,39.94,Maintenance Soon
+67.0,68.15,Maintenance Soon
+60.0,59.87,Maintenance Soon
+11.0,10.77,Critical
+66.0,65.98,Maintenance Soon
+196.0,195.07,Healthy
+87.0,86.27,Maintenance Soon
+160.0,159.88,Healthy
+23.0,34.9,Maintenance Soon
+1.0,6.68,Critical
+73.0,73.12,Maintenance Soon
+48.0,45.83,Maintenance Soon
+10.0,9.29,Critical
+158.0,158.49,Healthy
+165.0,164.98,Healthy
+101.0,86.06,Maintenance Soon
+192.0,192.92,Healthy
+75.0,75.33,Maintenance Soon
+40.0,37.29,Maintenance Soon
+146.0,145.12,Healthy
+9.0,7.62,Critical
+40.0,38.54,Maintenance Soon
+119.0,120.26,Healthy
+184.0,183.78,Healthy
+124.0,123.19,Healthy
+162.0,162.08,Healthy
+159.0,158.61,Healthy
+182.0,181.74,Healthy
+73.0,72.62,Maintenance Soon
+232.0,231.72,Healthy
+135.0,135.13,Healthy
+85.0,84.66,Maintenance Soon
+170.0,161.07,Healthy
+30.0,24.77,Critical
+165.0,165.45,Healthy
+38.0,33.86,Maintenance Soon
+77.0,77.56,Maintenance Soon
+23.0,18.44,Critical
+8.0,12.27,Critical
+179.0,178.22,Healthy
+302.0,301.41,Healthy
+49.0,47.77,Maintenance Soon
+149.0,148.28,Healthy
+164.0,164.02,Healthy
+39.0,38.99,Maintenance Soon
+220.0,221.19,Healthy
+27.0,30.66,Maintenance Soon
+95.0,95.04,Maintenance Soon
+21.0,24.2,Critical
+12.0,9.97,Critical
+15.0,17.05,Critical
+147.0,146.73,Healthy
+67.0,71.46,Maintenance Soon
+4.0,5.29,Critical
+6.0,8.36,Critical
+173.0,173.09,Healthy
+109.0,108.86,Healthy
+114.0,114.94,Healthy
+220.0,219.43,Healthy
+331.0,327.44,Healthy
+79.0,78.64,Maintenance Soon
+106.0,106.04,Healthy
+75.0,75.01,Maintenance Soon
+234.0,233.89,Healthy
+10.0,14.67,Critical
+223.0,223.12,Healthy
+153.0,153.77,Healthy
+168.0,168.51,Healthy
+90.0,89.3,Maintenance Soon
+192.0,191.9,Healthy
+103.0,102.46,Healthy
+55.0,54.69,Maintenance Soon
+101.0,103.01,Healthy
+45.0,40.84,Maintenance Soon
+162.0,159.8,Healthy
+16.0,21.53,Critical
+192.0,192.03,Healthy
+210.0,211.37,Healthy
+11.0,13.43,Critical
+240.0,241.35,Healthy
+199.0,198.04,Healthy
+69.0,68.32,Maintenance Soon
+150.0,150.15,Healthy
+48.0,57.56,Maintenance Soon
+160.0,160.13,Healthy
+93.0,93.26,Maintenance Soon
+48.0,47.23,Maintenance Soon
+209.0,209.39,Healthy
+157.0,156.64,Healthy
+1280.47,1282.0300000000009,Healthy
+71.0,68.17,Maintenance Soon
+82.0,81.81,Maintenance Soon
+17.0,25.66,Critical
+99.0,98.06,Maintenance Soon
+83.0,79.63,Maintenance Soon
+128.0,127.66,Healthy
+13.0,11.16,Critical
+21.0,22.56,Critical
+143.0,143.19,Healthy
+220.0,219.49,Healthy
+110.0,109.48,Healthy
+65.0,65.19,Maintenance Soon
+134.0,134.21,Healthy
+158.0,157.9,Healthy
+126.0,125.68,Healthy
+154.0,153.57,Healthy
+57.0,55.33,Maintenance Soon
+21.0,24.05,Critical
+33.0,22.76,Critical
+192.0,190.6,Healthy
+93.0,92.66,Maintenance Soon
+75.0,75.51,Maintenance Soon
+154.0,153.87,Healthy
+68.0,68.33,Maintenance Soon
+141.0,141.43,Healthy
+42.0,42.49,Maintenance Soon
+61.0,61.58,Maintenance Soon
+216.0,214.66,Healthy
+83.0,83.32,Maintenance Soon
+70.0,69.87,Maintenance Soon
+54.0,54.85,Maintenance Soon
+139.0,138.58,Healthy
+140.0,139.98,Healthy
+217.0,217.6,Healthy
+98.0,96.87,Maintenance Soon
+80.0,80.21,Maintenance Soon
+26.0,22.26,Critical
+198.0,198.77,Healthy
+20.0,23.88,Critical
+12.0,15.51,Critical
+16.0,17.81,Critical
+53.0,52.35,Maintenance Soon
+13.0,10.81,Critical
+51.0,51.32,Maintenance Soon
+214.0,213.45,Healthy
+147.0,146.89,Healthy
+102.0,101.47,Healthy
+28.0,31.6,Maintenance Soon
+107.0,106.9,Healthy
+90.0,89.88,Maintenance Soon
+128.0,128.64,Healthy
+51.0,51.22,Maintenance Soon
+64.0,69.1,Maintenance Soon
+40.0,40.25,Maintenance Soon
+168.0,168.48,Healthy
+42.0,42.11,Maintenance Soon
+203.0,202.6,Healthy
+121.0,127.07,Healthy
+16.0,26.81,Critical
+96.0,96.33,Maintenance Soon
+220.0,217.34,Healthy
+58.0,52.99,Maintenance Soon
+27.0,27.61,Critical
+19.0,20.44,Critical
+22.0,34.35,Maintenance Soon
+105.0,105.91,Healthy
+197.0,196.41,Healthy
+81.0,80.09,Maintenance Soon
+86.0,86.51,Maintenance Soon
+1274.47,1275.9100000000008,Healthy
+37.0,39.69,Maintenance Soon
+210.0,209.58,Healthy
+181.0,181.11,Healthy
+176.0,176.23,Healthy
+62.0,61.04,Maintenance Soon
+31.0,21.29,Critical
+265.0,266.11,Healthy
+137.0,136.98,Healthy
+116.0,116.41,Healthy
+132.0,131.78,Healthy
+18.0,14.13,Critical
+86.0,86.74,Maintenance Soon
+123.0,121.89,Healthy
+101.0,100.76,Healthy
+27.0,34.44,Maintenance Soon
+49.0,38.82,Maintenance Soon
+131.0,131.05,Healthy
+99.0,102.79,Healthy
+35.0,35.32,Maintenance Soon
+31.0,28.74,Critical
+182.0,181.36,Healthy
+59.0,59.36,Maintenance Soon
+121.0,121.5,Healthy
+27.0,29.93,Critical
+47.0,46.2,Maintenance Soon
+122.0,122.17,Healthy
+40.0,39.08,Maintenance Soon
+70.0,69.7,Maintenance Soon
+266.0,264.07,Healthy
+177.0,175.87,Healthy
+118.0,117.59,Healthy
+91.0,90.07,Maintenance Soon
+31.0,25.01,Critical
+11.0,10.08,Critical
+74.0,72.46,Maintenance Soon
+71.0,70.57,Maintenance Soon
+204.0,204.65,Healthy
+214.0,214.2,Healthy
+136.0,135.94,Healthy
+168.0,168.09,Healthy
+169.0,169.09,Healthy
+147.0,146.88,Healthy
+170.0,170.38,Healthy
+63.0,63.55,Maintenance Soon
+11.0,19.38,Critical
+112.0,109.86,Healthy
+71.0,71.25,Maintenance Soon
+204.0,204.61,Healthy
+179.0,175.12,Healthy
+74.0,74.19,Maintenance Soon
+83.0,83.15,Maintenance Soon
+175.0,166.56,Healthy
+236.0,235.43,Healthy
+67.0,67.19,Maintenance Soon
+126.0,125.71,Healthy
+140.0,139.51,Healthy
+91.0,90.89,Maintenance Soon
+208.0,208.18,Healthy
+14.0,14.36,Critical
+74.0,68.57,Maintenance Soon
+163.0,162.26,Healthy
+63.0,61.61,Maintenance Soon
+19.0,36.12,Maintenance Soon
+273.0,270.56,Healthy
+141.0,141.34,Healthy
+4.0,6.55,Critical
+131.0,131.08,Healthy
+78.0,77.26,Maintenance Soon
+166.0,166.62,Healthy
+42.0,43.69,Maintenance Soon
+146.0,145.65,Healthy
+87.0,86.99,Maintenance Soon
+121.0,120.42,Healthy
+122.0,120.96,Healthy
+76.0,76.35,Maintenance Soon
+59.0,60.24,Maintenance Soon
+173.0,173.23,Healthy
+150.0,150.39,Healthy
+119.0,119.01,Healthy
+167.0,166.33,Healthy
+119.0,123.63,Healthy
+68.0,65.55,Maintenance Soon
+33.0,31.56,Maintenance Soon
+245.0,245.25,Healthy
+94.0,92.49,Maintenance Soon
+192.0,192.47,Healthy
+208.0,207.0,Healthy
+89.0,89.82,Maintenance Soon
+49.0,47.92,Maintenance Soon
+31.0,37.6,Maintenance Soon
+157.0,155.48,Healthy
+45.0,43.61,Maintenance Soon
+135.0,134.05,Healthy
+40.0,39.9,Maintenance Soon
+32.0,31.62,Maintenance Soon
+78.0,77.88,Maintenance Soon
+116.0,116.96,Healthy
+97.0,96.42,Maintenance Soon
+7.0,9.48,Critical
+132.0,132.05,Healthy
+217.0,215.82,Healthy
+83.0,84.22,Maintenance Soon
+76.0,76.04,Maintenance Soon
+125.0,125.95,Healthy
+36.0,32.66,Maintenance Soon
+22.0,23.75,Critical
+89.0,88.76,Maintenance Soon
+1227.47,1227.1300000000008,Healthy
+64.0,60.55,Maintenance Soon
+33.0,33.78,Maintenance Soon
+68.0,69.48,Maintenance Soon
+228.0,228.24,Healthy
+227.0,226.62,Healthy
+188.0,187.46,Healthy
+104.0,104.82,Healthy
+211.0,210.81,Healthy
+38.0,47.42,Maintenance Soon
+96.0,96.61,Maintenance Soon
+106.0,105.56,Healthy
+126.0,125.55,Healthy
+149.0,149.04,Healthy
+60.0,58.69,Maintenance Soon
+226.0,225.51,Healthy
+199.0,199.92,Healthy
+200.0,199.48,Healthy
+250.0,255.11,Healthy
+192.0,192.49,Healthy
+8.0,8.63,Critical
+130.0,129.98,Healthy
+31.0,31.07,Maintenance Soon
+196.0,195.49,Healthy
+158.0,157.71,Healthy
+230.0,230.48,Healthy
+124.0,124.59,Healthy
+99.0,99.12,Maintenance Soon
+64.0,64.45,Maintenance Soon
+171.0,171.66,Healthy
+157.0,157.76,Healthy
+21.0,17.47,Critical
+63.0,63.24,Maintenance Soon
+84.0,85.18,Maintenance Soon
+17.0,8.3,Critical
+56.0,56.43,Maintenance Soon
+97.0,70.76,Maintenance Soon
+230.0,233.0,Healthy
+83.0,84.49,Maintenance Soon
+63.0,63.34,Maintenance Soon
+215.0,215.08,Healthy
+140.0,139.83,Healthy
+57.0,55.12,Maintenance Soon
+269.0,267.12,Healthy
+174.0,173.72,Healthy
+157.0,157.85,Healthy
+116.0,116.26,Healthy
+135.0,135.24,Healthy
+38.0,39.89,Maintenance Soon
+147.0,148.13,Healthy
+138.0,138.34,Healthy
+84.0,85.05,Maintenance Soon
+12.0,18.81,Critical
+69.0,63.77,Maintenance Soon
+136.0,134.6,Healthy
+25.0,32.95,Maintenance Soon
+147.0,146.73,Healthy
+124.0,123.09,Healthy
+131.0,130.54,Healthy
+225.0,223.92,Healthy
+133.0,132.56,Healthy
+256.0,255.29,Healthy
+70.0,64.24,Maintenance Soon
+117.0,117.14,Healthy
+115.0,113.86,Healthy
+174.0,174.06,Healthy
+115.0,114.43,Healthy
+105.0,104.75,Healthy
+249.0,248.33,Healthy
+144.0,144.66,Healthy
+129.0,130.1,Healthy
+88.0,87.82,Maintenance Soon
+170.0,169.78,Healthy
+106.0,105.19,Healthy
+46.0,44.85,Maintenance Soon
+161.0,160.86,Healthy
+6.0,10.01,Critical
+249.0,249.25,Healthy
+193.0,192.68,Healthy
+182.0,181.74,Healthy
+22.0,17.47,Critical
+161.0,160.89,Healthy
+96.0,94.89,Maintenance Soon
+122.0,122.1,Healthy
+71.0,70.76,Maintenance Soon
+157.0,157.41,Healthy
+155.0,154.82,Healthy
+24.0,28.98,Critical
+165.0,166.01,Healthy
+200.0,198.69,Healthy
+66.0,64.99,Maintenance Soon
+132.0,131.66,Healthy
+143.0,143.31,Healthy
+103.0,102.18,Healthy
+28.0,42.02,Maintenance Soon
+171.0,170.9,Healthy
+178.0,178.34,Healthy
+81.0,80.25,Maintenance Soon
+147.0,147.86,Healthy
+55.0,53.82,Maintenance Soon
+20.0,28.36,Critical
+76.0,70.45,Maintenance Soon
+12.0,17.77,Critical
+135.0,135.4,Healthy
+62.0,61.04,Maintenance Soon
+18.0,13.55,Critical
+108.0,109.24,Healthy
+152.0,151.91,Healthy
+254.0,253.92,Healthy
+6.0,10.23,Critical
+141.0,141.39,Healthy
+61.0,61.77,Maintenance Soon
+109.0,111.39,Healthy
+204.0,204.42,Healthy
+235.0,237.85,Healthy
+124.0,125.44,Healthy
+104.0,104.29,Healthy
+188.0,185.9,Healthy
+124.0,123.59,Healthy
+34.0,33.16,Maintenance Soon
+22.0,26.95,Critical
+14.0,10.39,Critical
+182.0,182.03,Healthy
+148.0,148.18,Healthy
+41.0,41.39,Maintenance Soon
+156.0,155.74,Healthy
+82.0,82.18,Maintenance Soon
+116.0,115.73,Healthy
+72.0,72.29,Maintenance Soon
+34.0,37.52,Maintenance Soon
+95.0,94.96,Maintenance Soon
+160.0,159.44,Healthy
+21.0,21.47,Critical
+205.0,206.09,Healthy
+89.0,87.85,Maintenance Soon
+143.0,147.44,Healthy
+135.0,133.99,Healthy
+228.0,229.81,Healthy
+0.0,2.85,Critical
+139.0,139.2,Healthy
+7.0,9.16,Critical
+33.0,30.06,Maintenance Soon
+38.0,36.92,Maintenance Soon
+306.0,303.95,Healthy
+77.0,76.81,Maintenance Soon
+121.0,121.15,Healthy
+136.0,136.85,Healthy
+171.0,171.64,Healthy
+81.0,81.97,Maintenance Soon
+49.0,49.1,Maintenance Soon
+23.0,22.19,Critical
+46.0,44.74,Maintenance Soon
+44.0,49.84,Maintenance Soon
+123.0,123.98,Healthy
+196.0,196.15,Healthy
+178.0,176.89,Healthy
+212.0,212.64,Healthy
+130.0,131.12,Healthy
+71.0,70.77,Maintenance Soon
+60.0,60.48,Maintenance Soon
+135.0,135.03,Healthy
+129.0,128.09,Healthy
+140.0,139.66,Healthy
+169.0,168.89,Healthy
+65.0,65.03,Maintenance Soon
+173.0,172.58,Healthy
+189.0,188.73,Healthy
+75.0,75.08,Maintenance Soon
+46.0,45.47,Maintenance Soon
+157.0,157.86,Healthy
+68.0,68.45,Maintenance Soon
+146.0,146.26,Healthy
+147.0,147.23,Healthy
+32.0,26.62,Critical
+177.0,176.97,Healthy
+149.0,148.57,Healthy
+159.0,158.93,Healthy
+17.0,17.81,Critical
+139.0,139.68,Healthy
+2.0,15.74,Critical
+136.0,136.28,Healthy
+81.0,82.73,Maintenance Soon
+12.0,10.11,Critical
+8.0,14.24,Critical
+186.0,185.68,Healthy
+29.0,29.71,Critical
+28.0,36.0,Maintenance Soon
+169.0,169.47,Healthy
+239.0,239.79,Healthy
+73.0,72.85,Maintenance Soon
+18.0,26.69,Critical
+146.0,145.84,Healthy
+131.0,130.71,Healthy
+45.0,44.41,Maintenance Soon
+222.0,221.98,Healthy
+82.0,81.43,Maintenance Soon
+104.0,104.14,Healthy
+44.0,45.6,Maintenance Soon
+1376.47,1377.440000000001,Healthy
+127.0,127.24,Healthy
+68.0,69.1,Maintenance Soon
+11.0,9.5,Critical
+57.0,57.61,Maintenance Soon
+155.0,154.93,Healthy
+128.0,129.64,Healthy
+47.0,45.68,Maintenance Soon
+180.0,181.39,Healthy
+4.0,4.17,Critical
+2.0,1.52,Critical
+198.0,198.76,Healthy
+34.0,32.95,Maintenance Soon
+101.0,100.63,Healthy
+234.0,231.94,Healthy
+211.0,209.51,Healthy
+193.0,193.64,Healthy
+11.0,11.74,Critical
+201.0,201.37,Healthy
+72.0,63.26,Maintenance Soon
+146.0,145.33,Healthy
+59.0,59.23,Maintenance Soon
+231.0,231.74,Healthy
+31.0,31.46,Maintenance Soon
+11.0,6.68,Critical
+166.0,166.53,Healthy
+27.0,29.11,Critical
+2.0,5.03,Critical
+97.0,97.16,Maintenance Soon
+192.0,191.59,Healthy
+53.0,60.45,Maintenance Soon
+27.0,26.15,Critical
+177.0,177.21,Healthy
+99.0,98.43,Maintenance Soon
+80.0,78.69,Maintenance Soon
+137.0,134.26,Healthy
+28.0,30.13,Maintenance Soon
+98.0,97.21,Maintenance Soon
+36.0,37.4,Maintenance Soon
+115.0,114.88,Healthy
+187.0,186.24,Healthy
+138.0,138.06,Healthy
+61.0,61.71,Maintenance Soon
+52.0,31.14,Maintenance Soon
+125.0,124.57,Healthy
+79.0,79.52,Maintenance Soon
+124.0,123.69,Healthy
+4.0,10.51,Critical
+120.0,120.14,Healthy
+120.0,120.35,Healthy
+26.0,24.27,Critical
+194.0,193.05,Healthy
+204.0,202.12,Healthy
+52.0,52.85,Maintenance Soon
+179.0,180.12,Healthy
+76.0,80.68,Maintenance Soon
+1292.47,1294.1000000000008,Healthy
+1.0,5.58,Critical
+156.0,155.12,Healthy
+227.0,227.46,Healthy
+167.0,167.1,Healthy
+329.0,324.69,Healthy
+56.0,42.19,Maintenance Soon
+12.0,21.24,Critical
+230.0,229.76,Healthy
+62.0,51.66,Maintenance Soon
+134.0,127.96,Healthy
+35.0,31.3,Maintenance Soon
+148.0,148.01,Healthy
+270.0,268.91,Healthy
+130.0,129.85,Healthy
+248.0,250.01,Healthy
+112.0,112.01,Healthy
+34.0,31.37,Maintenance Soon
+218.0,217.13,Healthy
+32.0,33.59,Maintenance Soon
+67.0,56.7,Maintenance Soon
+68.0,67.87,Maintenance Soon
+164.0,163.62,Healthy
+20.0,13.87,Critical
+68.0,67.94,Maintenance Soon
+158.0,157.63,Healthy
+104.0,103.7,Healthy
+133.0,132.86,Healthy
+119.0,119.94,Healthy
+48.0,47.95,Maintenance Soon
+69.0,68.62,Maintenance Soon
+109.0,111.29,Healthy
+1.0,3.3,Critical
+55.0,54.82,Maintenance Soon
+30.0,28.31,Critical
+73.0,73.39,Maintenance Soon
+2.0,5.01,Critical
+100.0,99.82,Maintenance Soon
+238.0,239.07,Healthy
+121.0,121.47,Healthy
+1.0,5.61,Critical
+41.0,41.45,Maintenance Soon
+53.0,53.16,Maintenance Soon
+107.0,107.16,Healthy
+103.0,102.88,Healthy
+50.0,51.95,Maintenance Soon
+53.0,68.27,Maintenance Soon
+336.0,334.2,Healthy
+94.0,93.72,Maintenance Soon
+126.0,123.69,Healthy
+63.0,61.53,Maintenance Soon
+156.0,156.51,Healthy
+144.0,144.88,Healthy
+51.0,49.42,Maintenance Soon
+45.0,47.02,Maintenance Soon
+124.0,123.0,Healthy
+255.0,255.27,Healthy
+118.0,118.2,Healthy
+136.0,136.23,Healthy
+135.0,134.07,Healthy
+28.0,38.44,Maintenance Soon
+29.0,28.29,Critical
+45.0,39.66,Maintenance Soon
+78.0,77.32,Maintenance Soon
+53.0,52.84,Maintenance Soon
+242.0,242.3,Healthy
+99.0,99.99,Maintenance Soon
+175.0,175.7,Healthy
+61.0,63.25,Maintenance Soon
+155.0,154.2,Healthy
+32.0,35.74,Maintenance Soon
+181.0,181.77,Healthy
+166.0,166.0,Healthy
+34.0,32.57,Maintenance Soon
+188.0,184.27,Healthy
+132.0,131.73,Healthy
+152.0,151.71,Healthy
+169.0,167.07,Healthy
+116.0,116.28,Healthy
+25.0,37.61,Maintenance Soon
+117.0,116.39,Healthy
+24.0,8.48,Critical
+75.0,73.43,Maintenance Soon
+161.0,160.89,Healthy
+204.0,203.71,Healthy
+22.0,24.05,Critical
+176.0,176.0,Healthy
+154.0,154.21,Healthy
+194.0,194.87,Healthy
+96.0,95.92,Maintenance Soon
+56.0,55.09,Maintenance Soon
+107.0,108.14,Healthy
+119.0,119.02,Healthy
+62.0,60.87,Maintenance Soon
+24.0,26.23,Critical
+93.0,92.92,Maintenance Soon
+213.0,211.66,Healthy
+230.0,230.14,Healthy
+42.0,45.71,Maintenance Soon
+94.0,93.47,Maintenance Soon
+109.0,109.0,Healthy
+204.0,203.75,Healthy
+146.0,146.29,Healthy
+71.0,71.76,Maintenance Soon
+202.0,201.17,Healthy
+130.0,130.72,Healthy
+51.0,50.04,Maintenance Soon
+288.0,285.58,Healthy
+77.0,77.59,Maintenance Soon
+111.0,111.5,Healthy
+99.0,99.23,Maintenance Soon
+85.0,86.16,Maintenance Soon
+311.0,309.1,Healthy
+101.0,100.31,Healthy
+42.0,42.25,Maintenance Soon
+164.0,163.78,Healthy
+100.0,103.19,Healthy
+30.0,26.95,Critical
+60.0,60.15,Maintenance Soon
+151.0,150.85,Healthy
+0.0,2.25,Critical
+108.0,108.34,Healthy
+14.0,16.79,Critical
+201.0,200.85,Healthy
+42.0,39.0,Maintenance Soon
+65.0,64.64,Maintenance Soon
+49.0,53.0,Maintenance Soon
+90.0,90.07,Maintenance Soon
+88.0,89.15,Maintenance Soon
+144.0,144.02,Healthy
+98.0,98.31,Maintenance Soon
+106.0,105.97,Healthy
+203.0,202.86,Healthy
+137.0,137.05,Healthy
+103.0,104.84,Healthy
+140.0,139.9,Healthy
+162.0,162.59,Healthy
+189.0,188.17,Healthy
+165.0,165.18,Healthy
+1268.47,1269.2800000000009,Healthy
+97.0,95.77,Maintenance Soon
+52.0,57.91,Maintenance Soon
+27.0,26.85,Critical
+73.0,73.54,Maintenance Soon
+159.0,159.44,Healthy
+157.0,156.94,Healthy
+134.0,134.19,Healthy
+70.0,70.68,Maintenance Soon
+237.0,238.14,Healthy
+14.0,23.38,Critical
+67.0,65.82,Maintenance Soon
+30.0,31.2,Maintenance Soon
+57.0,57.95,Maintenance Soon
+23.0,26.79,Critical
+118.0,115.42,Healthy
+74.0,74.11,Maintenance Soon
+52.0,31.99,Maintenance Soon
+212.0,211.53,Healthy
+46.0,41.89,Maintenance Soon
+93.0,93.39,Maintenance Soon
+319.0,316.06,Healthy
+108.0,107.17,Healthy
+21.0,31.77,Maintenance Soon
+107.0,105.63,Healthy
+119.0,119.42,Healthy
+159.0,158.81,Healthy
+127.0,123.18,Healthy
+159.0,159.01,Healthy
+198.0,197.32,Healthy
+70.0,70.84,Maintenance Soon
+81.0,81.09,Maintenance Soon
+132.0,132.24,Healthy
+23.0,27.19,Critical
+64.0,63.53,Maintenance Soon
+10.0,12.11,Critical
+61.0,61.58,Maintenance Soon
+112.0,112.36,Healthy
+128.0,128.6,Healthy
+151.0,151.56,Healthy
+76.0,76.51,Maintenance Soon
+60.0,61.72,Maintenance Soon
+150.0,150.61,Healthy
+13.0,9.13,Critical
+194.0,193.26,Healthy
+15.0,14.15,Critical
+127.0,126.06,Healthy
+75.0,73.29,Maintenance Soon
+71.0,70.79,Maintenance Soon
+157.0,157.33,Healthy
+209.0,209.44,Healthy
+44.0,41.67,Maintenance Soon
+115.0,115.61,Healthy
+0.0,2.84,Critical
+140.0,139.7,Healthy
+168.0,167.73,Healthy
+71.0,70.23,Maintenance Soon
+179.0,178.72,Healthy
+6.0,9.4,Critical
+14.0,10.54,Critical
+2.0,6.05,Critical
+56.0,56.31,Maintenance Soon
+63.0,54.12,Maintenance Soon
+85.0,85.93,Maintenance Soon
+118.0,130.42,Healthy
+3.0,3.72,Critical
+191.0,192.05,Healthy
+161.0,161.03,Healthy
+112.0,110.96,Healthy
+256.0,254.08,Healthy
+101.0,100.59,Healthy
+268.0,269.47,Healthy
+110.0,109.99,Healthy
+114.0,113.37,Healthy
+93.0,92.87,Maintenance Soon
+197.0,197.23,Healthy
+180.0,179.68,Healthy
+108.0,106.4,Healthy
+85.0,83.9,Maintenance Soon
+88.0,87.46,Maintenance Soon
+54.0,59.22,Maintenance Soon
+47.0,48.15,Maintenance Soon
+166.0,165.89,Healthy
+8.0,12.51,Critical
+47.0,39.62,Maintenance Soon
+45.0,45.03,Maintenance Soon
+210.0,210.48,Healthy
+121.0,120.12,Healthy
+26.0,22.46,Critical
+42.0,28.44,Critical
+2.0,6.02,Critical
+125.0,123.56,Healthy
+178.0,177.84,Healthy
+151.0,151.91,Healthy
+70.0,70.04,Maintenance Soon
+18.0,21.15,Critical
+81.0,74.3,Maintenance Soon
+52.0,52.4,Maintenance Soon
+22.0,16.74,Critical
+100.0,99.95,Maintenance Soon
+1319.47,1320.3100000000009,Healthy
+111.0,110.66,Healthy
+200.0,200.3,Healthy
+65.0,60.77,Maintenance Soon
+47.0,45.27,Maintenance Soon
+84.0,84.86,Maintenance Soon
+151.0,152.52,Healthy
+16.0,16.34,Critical
+59.0,60.46,Maintenance Soon
+104.0,103.6,Healthy
+31.0,32.54,Maintenance Soon
+77.0,77.59,Maintenance Soon
+50.0,51.98,Maintenance Soon
+51.0,51.97,Maintenance Soon
+34.0,34.2,Maintenance Soon
+60.0,61.2,Maintenance Soon
+48.0,48.59,Maintenance Soon
+50.0,55.95,Maintenance Soon
+114.0,115.42,Healthy
+98.0,96.48,Maintenance Soon
+137.0,135.75,Healthy
+83.0,82.77,Maintenance Soon
+83.0,47.92,Maintenance Soon
+9.0,15.51,Critical
+100.0,100.64,Healthy
+83.0,84.38,Maintenance Soon
+69.0,67.09,Maintenance Soon
+25.0,23.52,Critical
+89.0,90.78,Maintenance Soon
+66.0,65.56,Maintenance Soon
+14.0,9.75,Critical
+51.0,51.12,Maintenance Soon
+155.0,154.79,Healthy
+3.0,2.07,Critical
+184.0,183.42,Healthy
+191.0,191.21,Healthy
+227.0,229.4,Healthy
+267.0,267.95,Healthy
+142.0,141.11,Healthy
+199.0,196.75,Healthy
+142.0,141.91,Healthy
+129.0,129.71,Healthy
+208.0,206.32,Healthy
+118.0,118.25,Healthy
+197.0,197.82,Healthy
+136.0,135.72,Healthy
+150.0,149.38,Healthy
+122.0,121.6,Healthy
+110.0,111.46,Healthy
+148.0,148.21,Healthy
+149.0,148.41,Healthy
+273.0,272.73,Healthy
+152.0,151.24,Healthy
+168.0,167.7,Healthy
+122.0,123.33,Healthy
+257.0,257.73,Healthy
+165.0,165.97,Healthy
+234.0,233.96,Healthy
+60.0,61.05,Maintenance Soon
+100.0,100.56,Healthy
+8.0,4.13,Critical
+209.0,209.05,Healthy
+61.0,56.55,Maintenance Soon
+17.0,25.54,Critical
+158.0,158.11,Healthy
+227.0,226.81,Healthy
+40.0,39.47,Maintenance Soon
+68.0,68.65,Maintenance Soon
+217.0,219.22,Healthy
+18.0,18.33,Critical
+206.0,205.32,Healthy
+60.0,59.79,Maintenance Soon
+46.0,46.15,Maintenance Soon
+178.0,177.99,Healthy
+132.0,131.65,Healthy
+13.0,13.6,Critical
+22.0,30.57,Maintenance Soon
+59.0,59.82,Maintenance Soon
+3.0,5.13,Critical
+130.0,130.92,Healthy
+12.0,16.81,Critical
+1348.47,1348.490000000001,Healthy
+164.0,163.98,Healthy
+132.0,132.2,Healthy
+208.0,208.38,Healthy
+48.0,48.97,Maintenance Soon
+52.0,53.29,Maintenance Soon
+181.0,182.28,Healthy
+47.0,51.04,Maintenance Soon
+203.0,202.76,Healthy
+148.0,148.65,Healthy
+117.0,117.46,Healthy
+62.0,62.71,Maintenance Soon
+133.0,133.35,Healthy
+215.0,213.1,Healthy
+249.0,253.46,Healthy
+83.0,82.98,Maintenance Soon
+96.0,96.44,Maintenance Soon
+237.0,236.89,Healthy
+27.0,27.05,Critical
+184.0,183.47,Healthy
+75.0,75.57,Maintenance Soon
+189.0,190.41,Healthy
+164.0,164.62,Healthy
+150.0,149.7,Healthy
+101.0,99.05,Maintenance Soon
+246.0,246.04,Healthy
+160.0,159.62,Healthy
+116.0,116.33,Healthy
+130.0,129.77,Healthy
+61.0,60.4,Maintenance Soon
+127.0,126.29,Healthy
+120.0,119.98,Healthy
+128.0,127.9,Healthy
+76.0,80.44,Maintenance Soon
+193.0,192.5,Healthy
+301.0,300.56,Healthy
+35.0,37.98,Maintenance Soon
+124.0,124.38,Healthy
+278.0,278.2,Healthy
+317.0,316.2,Healthy
+39.0,40.45,Maintenance Soon
+214.0,213.75,Healthy
+191.0,189.95,Healthy
+114.0,114.57,Healthy
+65.0,65.56,Maintenance Soon
+61.0,61.29,Maintenance Soon
+190.0,190.08,Healthy
+91.0,90.43,Maintenance Soon
+202.0,202.3,Healthy
+217.0,217.42,Healthy
+94.0,93.48,Maintenance Soon
+80.0,81.38,Maintenance Soon
+150.0,149.88,Healthy
+109.0,107.98,Healthy
+86.0,39.58,Maintenance Soon
+91.0,91.39,Maintenance Soon
+19.0,24.95,Critical
+188.0,188.48,Healthy
+23.0,15.86,Critical
+167.0,166.4,Healthy
+46.0,72.7,Maintenance Soon
+194.0,194.02,Healthy
+144.0,143.48,Healthy
+226.0,225.6,Healthy
+42.0,41.32,Maintenance Soon
+53.0,50.6,Maintenance Soon
+140.0,140.02,Healthy
+92.0,90.05,Maintenance Soon
+93.0,93.32,Maintenance Soon
+32.0,33.82,Maintenance Soon
+7.0,8.13,Critical
+135.0,134.78,Healthy
+154.0,153.8,Healthy
+80.0,80.21,Maintenance Soon
+31.0,34.08,Maintenance Soon
+42.0,38.19,Maintenance Soon
+49.0,40.28,Maintenance Soon
+102.0,101.17,Healthy
+161.0,160.49,Healthy
+41.0,43.87,Maintenance Soon
+165.0,165.34,Healthy
+146.0,139.5,Healthy
+43.0,42.05,Maintenance Soon
+32.0,31.01,Maintenance Soon
+266.0,265.62,Healthy
+136.0,135.73,Healthy
+116.0,115.93,Healthy
+57.0,55.87,Maintenance Soon
+145.0,145.11,Healthy
+166.0,165.85,Healthy
+330.0,332.16,Healthy
+112.0,112.21,Healthy
+41.0,42.18,Maintenance Soon
+175.0,175.81,Healthy
+85.0,86.36,Maintenance Soon
+122.0,122.45,Healthy
+152.0,151.85,Healthy
+70.0,69.72,Maintenance Soon
+14.0,15.66,Critical
+14.0,16.47,Critical
+21.0,12.46,Critical
+12.0,12.42,Critical
+43.0,42.84,Maintenance Soon
+174.0,173.81,Healthy
+90.0,90.98,Maintenance Soon
+24.0,22.4,Critical
+45.0,43.34,Maintenance Soon
+106.0,106.25,Healthy
+56.0,57.4,Maintenance Soon
+75.0,74.52,Maintenance Soon
+187.0,186.75,Healthy
+125.0,125.37,Healthy
+19.0,25.53,Critical
+113.0,112.77,Healthy
+103.0,102.42,Healthy
+114.0,109.34,Healthy
+28.0,40.4,Maintenance Soon
+21.0,19.86,Critical
+42.0,41.44,Maintenance Soon
+89.0,87.72,Maintenance Soon
+123.0,123.17,Healthy
+146.0,145.19,Healthy
+96.0,97.29,Maintenance Soon
+1.0,2.43,Critical
+85.0,85.1,Maintenance Soon
+22.0,27.67,Critical
+83.0,79.82,Maintenance Soon
+127.0,126.63,Healthy
+69.0,69.43,Maintenance Soon
+134.0,134.2,Healthy
+85.0,85.88,Maintenance Soon
+236.0,236.05,Healthy
+202.0,201.76,Healthy
+177.0,176.12,Healthy
+73.0,79.43,Maintenance Soon
+55.0,55.24,Maintenance Soon
+1.0,3.04,Critical
+123.0,124.45,Healthy
+33.0,34.84,Maintenance Soon
+17.0,22.27,Critical
+174.0,174.54,Healthy
+179.0,178.98,Healthy
+135.0,135.33,Healthy
+207.0,207.35,Healthy
+73.0,72.44,Maintenance Soon
+20.0,12.91,Critical
+126.0,126.21,Healthy
+48.0,39.06,Maintenance Soon
+55.0,54.31,Maintenance Soon
+67.0,66.9,Maintenance Soon
+3.0,5.86,Critical
+88.0,89.29,Maintenance Soon
+221.0,220.94,Healthy
+56.0,55.92,Maintenance Soon
+167.0,167.0,Healthy
+97.0,97.35,Maintenance Soon
+246.0,245.32,Healthy
+151.0,151.17,Healthy
+48.0,46.57,Maintenance Soon
+21.0,14.03,Critical
+118.0,117.6,Healthy
+120.0,120.48,Healthy
+48.0,49.24,Maintenance Soon
+139.0,138.54,Healthy
+142.0,142.57,Healthy
+55.0,48.99,Maintenance Soon
+45.0,38.78,Maintenance Soon
+59.0,31.37,Maintenance Soon
+135.0,135.36,Healthy
+70.0,70.13,Maintenance Soon
+62.0,62.0,Maintenance Soon
+86.0,85.81,Maintenance Soon
+139.0,138.52,Healthy
+31.0,37.94,Maintenance Soon
+205.0,206.55,Healthy
+120.0,119.67,Healthy
+115.0,114.86,Healthy
+90.0,93.93,Maintenance Soon
+152.0,151.72,Healthy
+4.0,5.83,Critical
+143.0,142.96,Healthy
+35.0,35.84,Maintenance Soon
+29.0,32.62,Maintenance Soon
+55.0,54.57,Maintenance Soon
+2.0,2.26,Critical
+173.0,172.17,Healthy
+229.0,228.81,Healthy
+82.0,80.35,Maintenance Soon
+52.0,54.03,Maintenance Soon
+9.0,4.09,Critical
+21.0,15.52,Critical
+56.0,56.66,Maintenance Soon
+107.0,107.53,Healthy
+20.0,15.97,Critical
+34.0,37.26,Maintenance Soon
+182.0,182.82,Healthy
+151.0,150.67,Healthy
+126.0,126.34,Healthy
+38.0,21.06,Critical
+133.0,133.79,Healthy
+149.0,148.98,Healthy
+110.0,109.59,Healthy
+83.0,79.2,Maintenance Soon
+54.0,54.14,Maintenance Soon
+126.0,125.76,Healthy
+211.0,210.6,Healthy
+62.0,62.24,Maintenance Soon
+63.0,60.63,Maintenance Soon
+108.0,107.07,Healthy
+8.0,25.1,Critical
+216.0,213.45,Healthy
+26.0,28.41,Critical
+37.0,35.19,Maintenance Soon
+103.0,103.45,Healthy
+69.0,69.57,Maintenance Soon
+191.0,190.65,Healthy
+51.0,40.31,Maintenance Soon
+33.0,34.41,Maintenance Soon
+95.0,88.8,Maintenance Soon
+187.0,186.68,Healthy
+73.0,73.33,Maintenance Soon
+14.0,25.13,Critical
+108.0,107.96,Healthy
+109.0,110.6,Healthy
+117.0,117.04,Healthy
+128.0,127.96,Healthy
+19.0,16.42,Critical
+26.0,29.25,Critical
+83.0,83.58,Maintenance Soon
+160.0,160.21,Healthy
+35.0,36.75,Maintenance Soon
+75.0,74.83,Maintenance Soon
+171.0,170.68,Healthy
+11.0,12.91,Critical
+55.0,54.58,Maintenance Soon
+75.0,74.29,Maintenance Soon
+265.0,264.27,Healthy
+66.0,60.93,Maintenance Soon
+221.0,222.12,Healthy
+80.0,80.84,Maintenance Soon
+74.0,73.3,Maintenance Soon
+113.0,115.53,Healthy
+35.0,34.25,Maintenance Soon
+5.0,8.07,Critical
+154.0,154.0,Healthy
+40.0,41.55,Maintenance Soon
+72.0,53.18,Maintenance Soon
+70.0,69.43,Maintenance Soon
+297.0,300.33,Healthy
+72.0,65.49,Maintenance Soon
+177.0,177.55,Healthy
+65.0,62.83,Maintenance Soon
+30.0,28.67,Critical
+235.0,236.67,Healthy
+183.0,183.44,Healthy
+128.0,130.64,Healthy
+107.0,106.56,Healthy
+62.0,65.24,Maintenance Soon
+170.0,169.52,Healthy
+180.0,178.96,Healthy
+119.0,118.71,Healthy
+145.0,145.2,Healthy
+220.0,219.99,Healthy
+132.0,133.59,Healthy
+65.0,66.1,Maintenance Soon
+158.0,158.53,Healthy
+98.0,97.13,Maintenance Soon
+69.0,68.59,Maintenance Soon
+43.0,43.68,Maintenance Soon
+273.0,271.26,Healthy
+222.0,221.0,Healthy
+77.0,76.38,Maintenance Soon
+15.0,19.48,Critical
+39.0,38.79,Maintenance Soon
+157.0,156.96,Healthy
+117.0,116.75,Healthy
+102.0,101.8,Healthy
+121.0,120.96,Healthy
+169.0,168.58,Healthy
+24.0,35.52,Maintenance Soon
+119.0,113.21,Healthy
+9.0,7.71,Critical
+92.0,92.45,Maintenance Soon
+132.0,130.89,Healthy
+76.0,67.84,Maintenance Soon
+224.0,224.03,Healthy
+26.0,29.28,Critical
+140.0,139.06,Healthy
+124.0,124.3,Healthy
+5.0,10.43,Critical
+57.0,58.24,Maintenance Soon
+50.0,50.38,Maintenance Soon
+53.0,51.84,Maintenance Soon
+65.0,64.62,Maintenance Soon
+128.0,127.55,Healthy
+154.0,154.34,Healthy
+54.0,55.81,Maintenance Soon
+21.0,15.8,Critical
+17.0,18.94,Critical
+293.0,290.15,Healthy
+89.0,88.26,Maintenance Soon
+1304.47,1303.960000000001,Healthy
+145.0,145.28,Healthy
+177.0,176.6,Healthy
+86.0,86.37,Maintenance Soon
+52.0,52.97,Maintenance Soon
+110.0,105.2,Healthy
+32.0,32.38,Maintenance Soon
+22.0,26.53,Critical
+180.0,180.42,Healthy
+130.0,130.56,Healthy
+225.0,225.21,Healthy
+122.0,122.26,Healthy
+30.0,35.93,Maintenance Soon
+83.0,79.55,Maintenance Soon
+24.0,16.59,Critical
+289.0,287.9,Healthy
+165.0,164.37,Healthy
+135.0,135.24,Healthy
+157.0,156.78,Healthy
+72.0,71.04,Maintenance Soon
+163.0,163.24,Healthy
+147.0,147.32,Healthy
+5.0,9.69,Critical
+136.0,145.43,Healthy
+45.0,42.33,Maintenance Soon
+161.0,160.85,Healthy
+75.0,74.16,Maintenance Soon
+173.0,172.79,Healthy
+24.0,19.63,Critical
+99.0,98.8,Maintenance Soon
+3.0,8.93,Critical
+131.0,131.19,Healthy
+154.0,154.09,Healthy
+78.0,65.18,Maintenance Soon
+211.0,214.15,Healthy
+12.0,7.86,Critical
+31.0,34.88,Maintenance Soon
+198.0,198.08,Healthy
+119.0,119.47,Healthy
+129.0,128.4,Healthy
+27.0,29.66,Critical
+61.0,75.78,Maintenance Soon
+197.0,196.6,Healthy
+177.0,176.26,Healthy
+1350.47,1350.230000000001,Healthy
+29.0,21.18,Critical
+179.0,177.91,Healthy
+87.0,81.75,Maintenance Soon
+73.0,73.43,Maintenance Soon
+94.0,93.01,Maintenance Soon
+37.0,33.54,Maintenance Soon
+63.0,62.69,Maintenance Soon
+134.0,134.1,Healthy
+125.0,124.6,Healthy
+144.0,143.9,Healthy
+19.0,27.59,Critical
+34.0,27.78,Critical
+130.0,129.88,Healthy
+37.0,34.66,Maintenance Soon
+201.0,200.67,Healthy
+144.0,144.05,Healthy
+0.0,6.14,Critical
+338.0,334.92,Healthy
+81.0,80.27,Maintenance Soon
+98.0,96.92,Maintenance Soon
+203.0,203.82,Healthy
+52.0,48.05,Maintenance Soon
+66.0,66.33,Maintenance Soon
+121.0,121.68,Healthy
+23.0,32.6,Maintenance Soon
+143.0,142.51,Healthy
+153.0,152.79,Healthy
+154.0,153.94,Healthy
+175.0,169.56,Healthy
+39.0,24.19,Critical
+197.0,194.63,Healthy
+51.0,50.4,Maintenance Soon
+108.0,108.75,Healthy
+72.0,71.12,Maintenance Soon
+9.0,6.89,Critical
+133.0,133.87,Healthy
+116.0,115.02,Healthy
+36.0,36.88,Maintenance Soon
+99.0,101.29,Healthy
+101.0,100.31,Healthy
+56.0,53.71,Maintenance Soon
+69.0,68.65,Maintenance Soon
+185.0,183.17,Healthy
+4.0,5.34,Critical
+73.0,69.83,Maintenance Soon
+136.0,136.33,Healthy
+86.0,84.72,Maintenance Soon
+52.0,50.28,Maintenance Soon
+101.0,103.1,Healthy
+82.0,82.25,Maintenance Soon
+75.0,73.93,Maintenance Soon
+97.0,97.61,Maintenance Soon
+162.0,161.69,Healthy
+8.0,11.01,Critical
+162.0,161.13,Healthy
+85.0,84.85,Maintenance Soon
+166.0,165.85,Healthy
+180.0,180.39,Healthy
+56.0,43.71,Maintenance Soon
+21.0,32.53,Maintenance Soon
+73.0,73.13,Maintenance Soon
+26.0,22.74,Critical
+204.0,204.92,Healthy
+153.0,152.54,Healthy
+85.0,84.47,Maintenance Soon
+83.0,81.42,Maintenance Soon
+101.0,100.5,Healthy
+170.0,166.52,Healthy
+17.0,24.17,Critical
+154.0,154.04,Healthy
+137.0,137.04,Healthy
+104.0,103.3,Healthy
+126.0,126.65,Healthy
+174.0,173.36,Healthy
+106.0,105.8,Healthy
+117.0,117.02,Healthy
+118.0,118.57,Healthy
+117.0,114.66,Healthy
+32.0,35.36,Maintenance Soon
+49.0,49.72,Maintenance Soon
+10.0,13.07,Critical
+93.0,95.82,Maintenance Soon
+139.0,138.75,Healthy
+149.0,149.05,Healthy
+109.0,109.02,Healthy
+44.0,42.01,Maintenance Soon
+32.0,34.01,Maintenance Soon
+233.0,231.09,Healthy
+91.0,90.82,Maintenance Soon
+198.0,198.79,Healthy
+175.0,175.12,Healthy
+118.0,119.2,Healthy
+89.0,57.3,Maintenance Soon
+87.0,86.6,Maintenance Soon
+170.0,170.06,Healthy
+114.0,113.63,Healthy
+26.0,28.19,Critical
+91.0,89.74,Maintenance Soon
+187.0,188.94,Healthy
+47.0,49.99,Maintenance Soon
+11.0,10.22,Critical
+11.0,17.78,Critical
+186.0,186.45,Healthy
+47.0,47.14,Maintenance Soon
+58.0,59.19,Maintenance Soon
+81.0,83.52,Maintenance Soon
+20.0,19.01,Critical
+352.0,353.39,Healthy
+119.0,118.26,Healthy
+22.0,14.63,Critical
+128.0,127.31,Healthy
+29.0,26.02,Critical
+184.0,184.7,Healthy
+22.0,22.45,Critical
+145.0,144.2,Healthy
+159.0,158.84,Healthy
+191.0,191.07,Healthy
+98.0,98.52,Maintenance Soon
+39.0,37.85,Maintenance Soon
+176.0,175.42,Healthy
+161.0,160.79,Healthy
+116.0,116.36,Healthy
+137.0,136.72,Healthy
+175.0,174.93,Healthy
+61.0,45.41,Maintenance Soon
+37.0,36.21,Maintenance Soon
+25.0,32.28,Maintenance Soon
+146.0,146.32,Healthy
+70.0,67.39,Maintenance Soon
+194.0,194.16,Healthy
+92.0,93.17,Maintenance Soon
+81.0,80.8,Maintenance Soon
+9.0,7.99,Critical
+100.0,100.18,Healthy
+163.0,162.52,Healthy
+147.0,146.62,Healthy
+10.0,14.31,Critical
+46.0,46.36,Maintenance Soon
+118.0,118.02,Healthy
+7.0,7.99,Critical
+281.0,283.87,Healthy
+1404.47,1402.0300000000009,Healthy
+191.0,190.61,Healthy
+246.0,247.34,Healthy
+34.0,36.96,Maintenance Soon
+141.0,142.03,Healthy
+16.0,16.88,Critical
+70.0,70.25,Maintenance Soon
+140.0,139.26,Healthy
+169.0,170.22,Healthy
+49.0,48.34,Maintenance Soon
+149.0,149.6,Healthy
+146.0,145.81,Healthy
+58.0,56.44,Maintenance Soon
+142.0,137.87,Healthy
+134.0,133.85,Healthy
+73.0,71.08,Maintenance Soon
+155.0,154.98,Healthy
+172.0,166.89,Healthy
+169.0,169.18,Healthy
+149.0,148.64,Healthy
+69.0,71.45,Maintenance Soon
+129.0,128.71,Healthy
+187.0,187.8,Healthy
+58.0,56.46,Maintenance Soon
+57.0,58.22,Maintenance Soon
+52.0,38.43,Maintenance Soon
+58.0,57.69,Maintenance Soon
+176.0,176.43,Healthy
+83.0,81.58,Maintenance Soon
+186.0,187.94,Healthy
+149.0,148.83,Healthy
+106.0,105.7,Healthy
+105.0,104.43,Healthy
+108.0,110.02,Healthy
+1365.47,1365.730000000001,Healthy
+41.0,39.45,Maintenance Soon
+0.0,4.38,Critical
+40.0,44.61,Maintenance Soon
+169.0,169.3,Healthy
+184.0,184.81,Healthy
+75.0,75.02,Maintenance Soon
+144.0,144.02,Healthy
+143.0,144.11,Healthy
+128.0,127.56,Healthy
+51.0,51.6,Maintenance Soon
+140.0,140.5,Healthy
+157.0,157.52,Healthy
+71.0,72.59,Maintenance Soon
+6.0,7.75,Critical
+127.0,127.84,Healthy
+287.0,284.51,Healthy
+239.0,239.17,Healthy
+142.0,143.35,Healthy
+68.0,68.07,Maintenance Soon
+140.0,138.21,Healthy
+58.0,59.33,Maintenance Soon
+291.0,286.74,Healthy
+311.0,314.83,Healthy
+87.0,87.3,Maintenance Soon
+190.0,189.81,Healthy
+36.0,36.17,Maintenance Soon
+157.0,156.91,Healthy
+132.0,131.81,Healthy
+51.0,51.29,Maintenance Soon
+1361.47,1363.770000000001,Healthy
+92.0,92.25,Maintenance Soon
+122.0,121.72,Healthy
+136.0,137.11,Healthy
+55.0,54.96,Maintenance Soon
+93.0,92.09,Maintenance Soon
+43.0,43.27,Maintenance Soon
+96.0,85.56,Maintenance Soon
+26.0,30.0,Critical
+73.0,72.7,Maintenance Soon
+59.0,59.15,Maintenance Soon
+157.0,157.73,Healthy
+57.0,49.42,Maintenance Soon
+168.0,167.82,Healthy
+235.0,234.81,Healthy
+114.0,113.66,Healthy
+54.0,52.86,Maintenance Soon
+38.0,38.73,Maintenance Soon
+153.0,152.5,Healthy
+189.0,189.26,Healthy
+204.0,203.32,Healthy
+81.0,80.61,Maintenance Soon
+115.0,114.63,Healthy
+143.0,142.71,Healthy
+19.0,24.53,Critical
+184.0,184.11,Healthy
+99.0,97.94,Maintenance Soon
+149.0,149.12,Healthy
+160.0,158.62,Healthy
+127.0,127.33,Healthy
+99.0,99.09,Maintenance Soon
+45.0,44.85,Maintenance Soon
+138.0,137.84,Healthy
+27.0,29.35,Critical
+134.0,134.2,Healthy
+5.0,3.39,Critical
+176.0,176.16,Healthy
+19.0,16.34,Critical
+186.0,186.12,Healthy
+72.0,71.76,Maintenance Soon
+76.0,73.41,Maintenance Soon
+58.0,56.59,Maintenance Soon
+184.0,186.99,Healthy
+110.0,110.1,Healthy
+226.0,226.46,Healthy
+228.0,227.84,Healthy
+20.0,26.05,Critical
+91.0,93.21,Maintenance Soon
+2.0,5.12,Critical
+74.0,73.89,Maintenance Soon
+14.0,12.44,Critical
+13.0,18.05,Critical
+33.0,42.54,Maintenance Soon
+8.0,11.02,Critical
+45.0,38.37,Maintenance Soon
+52.0,50.13,Maintenance Soon
+175.0,174.99,Healthy
+173.0,172.68,Healthy
+133.0,132.98,Healthy
+115.0,115.45,Healthy
+226.0,224.04,Healthy
+34.0,24.39,Critical
+135.0,134.43,Healthy
+15.0,21.16,Critical
+227.0,227.1,Healthy
+92.0,92.11,Maintenance Soon
+19.0,22.98,Critical
+104.0,104.23,Healthy
+183.0,183.62,Healthy
+89.0,88.97,Maintenance Soon
+173.0,172.23,Healthy
+159.0,159.19,Healthy
+132.0,131.82,Healthy
+11.0,13.39,Critical
+165.0,165.6,Healthy
+18.0,24.3,Critical
+111.0,109.01,Healthy
+29.0,31.75,Maintenance Soon
+205.0,202.76,Healthy
+8.0,11.72,Critical
+114.0,112.06,Healthy
+319.0,322.22,Healthy
+64.0,64.56,Maintenance Soon
+194.0,194.89,Healthy
+8.0,27.38,Critical
+92.0,92.05,Maintenance Soon
+101.0,92.51,Maintenance Soon
+268.0,266.77,Healthy
+37.0,36.95,Maintenance Soon
+11.0,8.77,Critical
+84.0,82.71,Maintenance Soon
+130.0,129.87,Healthy
+143.0,142.11,Healthy
+42.0,35.07,Maintenance Soon
+84.0,84.05,Maintenance Soon
+163.0,162.39,Healthy
+31.0,31.43,Maintenance Soon
+94.0,93.92,Maintenance Soon
+129.0,129.38,Healthy
+88.0,87.12,Maintenance Soon
+212.0,212.51,Healthy
+18.0,21.1,Critical
+206.0,206.45,Healthy
+178.0,177.51,Healthy
+141.0,141.28,Healthy
+144.0,144.11,Healthy
+63.0,62.15,Maintenance Soon
+121.0,121.47,Healthy
+176.0,175.24,Healthy
+39.0,39.89,Maintenance Soon
+114.0,112.79,Healthy
+47.0,58.26,Maintenance Soon
+183.0,183.47,Healthy
+152.0,151.33,Healthy
+43.0,42.35,Maintenance Soon
+119.0,119.12,Healthy
+56.0,57.76,Maintenance Soon
+261.0,261.77,Healthy
+136.0,136.03,Healthy
+165.0,164.72,Healthy
+148.0,148.16,Healthy
+17.0,19.41,Critical
+112.0,110.92,Healthy
+115.0,114.52,Healthy
+183.0,183.4,Healthy
+188.0,188.27,Healthy
+234.0,232.35,Healthy
+17.0,18.39,Critical
+163.0,164.36,Healthy
+67.0,66.48,Maintenance Soon
+134.0,133.88,Healthy
+94.0,94.14,Maintenance Soon
+143.0,141.82,Healthy
+14.0,16.24,Critical
+102.0,102.76,Healthy
+15.0,16.27,Critical
+125.0,125.15,Healthy
+16.0,32.03,Maintenance Soon
+87.0,86.12,Maintenance Soon
+23.0,25.27,Critical
+155.0,156.3,Healthy
+36.0,26.79,Critical
+185.0,183.58,Healthy
+51.0,49.41,Maintenance Soon
+94.0,96.6,Maintenance Soon
+70.0,70.31,Maintenance Soon
+257.0,257.67,Healthy
+96.0,99.17,Maintenance Soon
+84.0,85.25,Maintenance Soon
+208.0,207.38,Healthy
+78.0,79.26,Maintenance Soon
+21.0,11.97,Critical
+222.0,220.52,Healthy
+141.0,140.5,Healthy
+8.0,6.98,Critical
+34.0,34.14,Maintenance Soon
+9.0,10.69,Critical
+138.0,136.53,Healthy
+123.0,121.84,Healthy
+183.0,183.17,Healthy
+62.0,61.1,Maintenance Soon
+36.0,37.03,Maintenance Soon
+4.0,4.6,Critical
+51.0,49.0,Maintenance Soon
+14.0,14.48,Critical
+92.0,92.19,Maintenance Soon
+150.0,149.68,Healthy
+0.0,3.91,Critical
+165.0,166.36,Healthy
+71.0,70.7,Maintenance Soon
+20.0,21.23,Critical
+48.0,34.85,Maintenance Soon
+82.0,82.51,Maintenance Soon
+15.0,6.44,Critical
+165.0,164.72,Healthy
+96.0,94.07,Maintenance Soon
+151.0,150.99,Healthy
+21.0,31.54,Maintenance Soon
+70.0,69.7,Maintenance Soon
+130.0,129.41,Healthy
+48.0,50.29,Maintenance Soon
+141.0,140.41,Healthy
+74.0,76.83,Maintenance Soon
+77.0,79.0,Maintenance Soon
+263.0,263.12,Healthy
+103.0,103.5,Healthy
+144.0,143.48,Healthy
+22.0,30.07,Maintenance Soon
+42.0,42.41,Maintenance Soon
+223.0,221.26,Healthy
+70.0,69.91,Maintenance Soon
+328.0,327.91,Healthy
+9.0,10.49,Critical
+139.0,139.33,Healthy
+27.0,29.04,Critical
+110.0,110.05,Healthy
+45.0,47.03,Maintenance Soon
+168.0,165.31,Healthy
+74.0,73.93,Maintenance Soon
+199.0,199.36,Healthy
+28.0,30.82,Maintenance Soon
+197.0,195.7,Healthy
+114.0,114.18,Healthy
+96.0,96.31,Maintenance Soon
+45.0,45.9,Maintenance Soon
+94.0,94.05,Maintenance Soon
+158.0,158.53,Healthy
+103.0,104.56,Healthy
+4.0,12.29,Critical
+79.0,79.81,Maintenance Soon
+6.0,12.37,Critical
+49.0,47.63,Maintenance Soon
+83.0,83.3,Maintenance Soon
+159.0,159.37,Healthy
+103.0,102.57,Healthy
+208.0,207.35,Healthy
+101.0,102.58,Healthy
+66.0,65.57,Maintenance Soon
+202.0,203.27,Healthy
+64.0,45.53,Maintenance Soon
+0.0,3.12,Critical
+130.0,131.52,Healthy
+76.0,76.81,Maintenance Soon
+39.0,37.28,Maintenance Soon
+1366.47,1368.3200000000008,Healthy
+165.0,164.65,Healthy
+91.0,92.95,Maintenance Soon
+97.0,97.53,Maintenance Soon
+99.0,98.74,Maintenance Soon
+96.0,96.81,Maintenance Soon
+105.0,105.1,Healthy
+176.0,176.13,Healthy
+101.0,100.81,Healthy
+180.0,180.29,Healthy
+62.0,61.15,Maintenance Soon
+23.0,25.22,Critical
+79.0,79.57,Maintenance Soon
+89.0,89.12,Maintenance Soon
+123.0,123.22,Healthy
+117.0,114.8,Healthy
+240.0,242.48,Healthy
+215.0,213.82,Healthy
+147.0,146.32,Healthy
+170.0,171.15,Healthy
+67.0,65.06,Maintenance Soon
+198.0,197.53,Healthy
+88.0,84.75,Maintenance Soon
+128.0,127.66,Healthy
+209.0,210.0,Healthy
+176.0,176.38,Healthy
+161.0,160.77,Healthy
+1317.47,1317.250000000001,Healthy
+28.0,25.63,Critical
+1372.47,1372.010000000001,Healthy
+91.0,90.63,Maintenance Soon
+126.0,125.98,Healthy
+72.0,71.96,Maintenance Soon
+83.0,81.65,Maintenance Soon
+237.0,239.34,Healthy
+75.0,75.52,Maintenance Soon
+141.0,140.7,Healthy
+168.0,167.89,Healthy
+97.0,97.83,Maintenance Soon
+133.0,132.63,Healthy
+67.0,66.07,Maintenance Soon
+155.0,155.57,Healthy
+101.0,101.31,Healthy
+42.0,42.46,Maintenance Soon
+88.0,87.42,Maintenance Soon
+169.0,169.01,Healthy
+73.0,74.1,Maintenance Soon
+224.0,222.74,Healthy
+95.0,94.88,Maintenance Soon
+296.0,294.82,Healthy
+106.0,106.4,Healthy
+74.0,72.71,Maintenance Soon
+120.0,120.97,Healthy
+133.0,132.96,Healthy
+101.0,101.97,Healthy
+130.0,130.55,Healthy
+28.0,30.07,Maintenance Soon
+2.0,2.13,Critical
+63.0,62.32,Maintenance Soon
+131.0,130.62,Healthy
+18.0,21.99,Critical
+20.0,27.59,Critical
+104.0,69.35,Maintenance Soon
+80.0,79.38,Maintenance Soon
+81.0,80.8,Maintenance Soon
+146.0,145.74,Healthy
+155.0,154.68,Healthy
+213.0,211.79,Healthy
+123.0,123.75,Healthy
+180.0,180.14,Healthy
+0.0,3.75,Critical
+47.0,46.56,Maintenance Soon
+154.0,153.62,Healthy
+204.0,204.99,Healthy
+47.0,41.56,Maintenance Soon
+60.0,60.25,Maintenance Soon
+71.0,47.44,Maintenance Soon
+68.0,68.36,Maintenance Soon
+6.0,13.01,Critical
+137.0,136.47,Healthy
+182.0,182.49,Healthy
+187.0,187.11,Healthy
+91.0,93.34,Maintenance Soon
+116.0,116.21,Healthy
+140.0,139.58,Healthy
+162.0,149.63,Healthy
+334.0,333.57,Healthy
+163.0,163.17,Healthy
+206.0,206.31,Healthy
+202.0,202.33,Healthy
+179.0,178.69,Healthy
+1390.47,1391.470000000001,Healthy
+104.0,103.46,Healthy
+44.0,43.79,Maintenance Soon
+134.0,133.88,Healthy
+26.0,14.9,Critical
+20.0,19.3,Critical
+77.0,74.58,Maintenance Soon
+171.0,171.17,Healthy
+129.0,128.31,Healthy
+20.0,20.51,Critical
+101.0,101.64,Healthy
+91.0,89.87,Maintenance Soon
+10.0,8.64,Critical
+99.0,98.87,Maintenance Soon
+81.0,82.5,Maintenance Soon
+81.0,81.84,Maintenance Soon
+241.0,240.64,Healthy
+132.0,131.76,Healthy
+12.0,21.64,Critical
+8.0,7.7,Critical
+91.0,90.82,Maintenance Soon
+155.0,153.81,Healthy
+93.0,92.63,Maintenance Soon
+189.0,188.54,Healthy
+106.0,104.89,Healthy
+63.0,68.63,Maintenance Soon
+9.0,10.59,Critical
+11.0,16.29,Critical
+133.0,132.53,Healthy
+30.0,30.42,Maintenance Soon
+133.0,130.04,Healthy
+261.0,260.98,Healthy
+153.0,152.26,Healthy
+113.0,112.71,Healthy
+312.0,308.2,Healthy
+166.0,164.61,Healthy
+46.0,58.05,Maintenance Soon
+210.0,211.71,Healthy
+150.0,150.14,Healthy
+27.0,32.98,Maintenance Soon
+174.0,173.63,Healthy
+66.0,64.71,Maintenance Soon
+52.0,52.2,Maintenance Soon
+200.0,199.82,Healthy
+154.0,154.72,Healthy
+69.0,67.12,Maintenance Soon
+77.0,75.62,Maintenance Soon
+22.0,25.81,Critical
+92.0,92.08,Maintenance Soon
+127.0,126.02,Healthy
+40.0,35.19,Maintenance Soon
+164.0,161.94,Healthy
+57.0,56.33,Maintenance Soon
+19.0,16.8,Critical
+42.0,48.72,Maintenance Soon
+33.0,35.82,Maintenance Soon
+83.0,83.45,Maintenance Soon
+77.0,76.65,Maintenance Soon
+141.0,140.47,Healthy
+118.0,118.49,Healthy
+133.0,132.37,Healthy
+65.0,65.19,Maintenance Soon
+75.0,73.88,Maintenance Soon
+73.0,76.76,Maintenance Soon
+78.0,78.7,Maintenance Soon
+190.0,189.87,Healthy
+179.0,177.67,Healthy
+89.0,88.12,Maintenance Soon
+157.0,156.5,Healthy
+91.0,93.25,Maintenance Soon
+10.0,10.98,Critical
+26.0,31.07,Maintenance Soon
+13.0,13.24,Critical
+62.0,54.32,Maintenance Soon
+80.0,81.31,Maintenance Soon
+144.0,143.18,Healthy
+266.0,266.58,Healthy
+97.0,96.97,Maintenance Soon
+5.0,6.57,Critical
+160.0,159.64,Healthy
+208.0,207.46,Healthy
+219.0,217.47,Healthy
+115.0,114.61,Healthy
+195.0,195.22,Healthy
+156.0,155.97,Healthy
+21.0,28.99,Critical
+30.0,29.46,Critical
+121.0,121.79,Healthy
+66.0,59.76,Maintenance Soon
+33.0,21.23,Critical
+25.0,32.49,Maintenance Soon
+122.0,122.3,Healthy
+87.0,77.74,Maintenance Soon
+0.0,2.26,Critical
+155.0,155.34,Healthy
+107.0,106.47,Healthy
+171.0,170.67,Healthy
+57.0,57.7,Maintenance Soon
+70.0,69.81,Maintenance Soon
+124.0,125.57,Healthy
+89.0,88.12,Maintenance Soon
+118.0,118.15,Healthy
+13.0,5.4,Critical
+190.0,188.07,Healthy
+200.0,200.4,Healthy
+124.0,124.26,Healthy
+70.0,63.84,Maintenance Soon
+40.0,30.86,Maintenance Soon
+193.0,192.49,Healthy
+144.0,143.99,Healthy
+80.0,81.98,Maintenance Soon
+52.0,52.29,Maintenance Soon
+124.0,124.45,Healthy
+136.0,133.14,Healthy
+11.0,14.51,Critical
+165.0,165.67,Healthy
+160.0,161.44,Healthy
+171.0,169.51,Healthy
+144.0,143.51,Healthy
+44.0,43.59,Maintenance Soon
+58.0,58.99,Maintenance Soon
+47.0,46.62,Maintenance Soon
+198.0,200.14,Healthy
+41.0,40.8,Maintenance Soon
+170.0,170.65,Healthy
+141.0,141.4,Healthy
+166.0,165.55,Healthy
+79.0,77.88,Maintenance Soon
+42.0,39.12,Maintenance Soon
+85.0,85.8,Maintenance Soon
+60.0,59.47,Maintenance Soon
+9.0,14.53,Critical
+104.0,100.95,Healthy
+104.0,103.37,Healthy
+109.0,105.85,Healthy
+105.0,104.94,Healthy
+231.0,232.59,Healthy
+13.0,18.46,Critical
+20.0,25.92,Critical
+70.0,70.2,Maintenance Soon
+268.0,268.12,Healthy
+177.0,174.86,Healthy
+59.0,58.52,Maintenance Soon
+90.0,90.29,Maintenance Soon
+39.0,42.78,Maintenance Soon
+9.0,7.42,Critical
+174.0,174.27,Healthy
+7.0,4.44,Critical
+29.0,33.54,Maintenance Soon
+4.0,5.17,Critical
+73.0,73.49,Maintenance Soon
+2.0,3.13,Critical
+97.0,95.45,Maintenance Soon
+162.0,161.88,Healthy
+151.0,150.75,Healthy
+155.0,153.61,Healthy
+97.0,97.23,Maintenance Soon
+35.0,35.02,Maintenance Soon
+94.0,94.71,Maintenance Soon
+166.0,166.15,Healthy
+154.0,153.87,Healthy
+114.0,113.49,Healthy
+31.0,33.25,Maintenance Soon
+48.0,47.38,Maintenance Soon
+149.0,149.36,Healthy
+145.0,147.09,Healthy
+103.0,102.44,Healthy
+219.0,215.95,Healthy
+63.0,63.17,Maintenance Soon
+10.0,18.59,Critical
+150.0,142.76,Healthy
+70.0,69.01,Maintenance Soon
+165.0,165.62,Healthy
+93.0,92.05,Maintenance Soon
+75.0,72.2,Maintenance Soon
+22.0,18.15,Critical
+40.0,40.29,Maintenance Soon
+84.0,85.61,Maintenance Soon
+103.0,103.43,Healthy
+175.0,175.6,Healthy
+127.0,127.19,Healthy
+115.0,116.98,Healthy
+55.0,54.74,Maintenance Soon
+60.0,59.29,Maintenance Soon
+113.0,112.83,Healthy
+100.0,103.9,Healthy
+160.0,160.28,Healthy
+67.0,68.52,Maintenance Soon
+163.0,162.55,Healthy
+54.0,37.44,Maintenance Soon
+77.0,75.38,Maintenance Soon
+37.0,37.53,Maintenance Soon
+3.0,4.49,Critical
+105.0,104.63,Healthy
+104.0,99.15,Maintenance Soon
+107.0,108.16,Healthy
+17.0,18.59,Critical
+89.0,88.32,Maintenance Soon
+269.0,268.83,Healthy
+106.0,107.16,Healthy
+14.0,22.06,Critical
+89.0,90.86,Maintenance Soon
+1.0,2.71,Critical
+5.0,5.34,Critical
+59.0,59.21,Maintenance Soon
+114.0,113.42,Healthy
+97.0,98.43,Maintenance Soon
+36.0,36.46,Maintenance Soon
+51.0,52.21,Maintenance Soon
+121.0,121.33,Healthy
+115.0,114.96,Healthy
+142.0,142.16,Healthy
+47.0,42.83,Maintenance Soon
+135.0,136.06,Healthy
+168.0,167.77,Healthy
+101.0,101.26,Healthy
+39.0,41.95,Maintenance Soon
+148.0,148.37,Healthy
+162.0,162.17,Healthy
+136.0,136.19,Healthy
+109.0,108.53,Healthy
+138.0,137.73,Healthy
+95.0,95.06,Maintenance Soon
+137.0,137.96,Healthy
+98.0,97.13,Maintenance Soon
+229.0,228.51,Healthy
+92.0,91.29,Maintenance Soon
+183.0,183.08,Healthy
+104.0,104.35,Healthy
+179.0,179.02,Healthy
+194.0,193.77,Healthy
+29.0,22.18,Critical
+152.0,151.75,Healthy
+155.0,154.63,Healthy
+71.0,71.38,Maintenance Soon
+30.0,28.69,Critical
+21.0,36.02,Maintenance Soon
+76.0,75.63,Maintenance Soon
+200.0,199.01,Healthy
+53.0,53.46,Maintenance Soon
+44.0,35.67,Maintenance Soon
+36.0,39.74,Maintenance Soon
+10.0,9.36,Critical
+143.0,142.88,Healthy
+57.0,53.96,Maintenance Soon
+146.0,146.37,Healthy
+94.0,94.52,Maintenance Soon
+53.0,37.08,Maintenance Soon
+77.0,77.06,Maintenance Soon
+52.0,47.29,Maintenance Soon
+147.0,144.92,Healthy
+207.0,206.87,Healthy
+30.0,29.49,Critical
+195.0,195.08,Healthy
+151.0,151.28,Healthy
+6.0,17.18,Critical
+131.0,131.0,Healthy
+229.0,225.84,Healthy
+48.0,46.49,Maintenance Soon
+59.0,57.63,Maintenance Soon
+190.0,190.83,Healthy
+18.0,21.87,Critical
+179.0,179.22,Healthy
+12.0,14.16,Critical
+30.0,30.6,Maintenance Soon
+107.0,108.24,Healthy
+182.0,181.5,Healthy
+179.0,177.94,Healthy
+53.0,53.29,Maintenance Soon
+104.0,104.04,Healthy
+196.0,196.75,Healthy
+158.0,157.28,Healthy
+73.0,73.86,Maintenance Soon
+42.0,42.13,Maintenance Soon
+224.0,224.53,Healthy
+175.0,174.25,Healthy
+1238.47,1239.3800000000008,Healthy
+78.0,78.51,Maintenance Soon
+57.0,57.72,Maintenance Soon
+175.0,175.32,Healthy
+27.0,18.84,Critical
+14.0,11.25,Critical
+233.0,234.82,Healthy
+142.0,142.92,Healthy
+142.0,142.13,Healthy
+157.0,157.13,Healthy
+71.0,71.52,Maintenance Soon
+125.0,124.98,Healthy
+77.0,77.75,Maintenance Soon
+116.0,116.14,Healthy
+25.0,26.55,Critical
+2.0,3.76,Critical
+1270.47,1272.460000000001,Healthy
+111.0,111.77,Healthy
+61.0,61.75,Maintenance Soon
+11.0,15.19,Critical
+171.0,170.25,Healthy
+164.0,164.05,Healthy
+198.0,198.74,Healthy
+119.0,118.77,Healthy
+89.0,88.55,Maintenance Soon
+139.0,139.1,Healthy
+12.0,7.24,Critical
+48.0,27.94,Critical
+150.0,149.92,Healthy
+90.0,90.24,Maintenance Soon
+172.0,171.72,Healthy
+75.0,73.25,Maintenance Soon
+156.0,155.55,Healthy
+191.0,190.16,Healthy
+15.0,18.4,Critical
+202.0,199.46,Healthy
+17.0,14.99,Critical
+86.0,85.87,Maintenance Soon
+165.0,163.44,Healthy
+6.0,10.52,Critical
+107.0,106.96,Healthy
+185.0,184.33,Healthy
+60.0,59.56,Maintenance Soon
+33.0,35.45,Maintenance Soon
+132.0,132.81,Healthy
+70.0,62.65,Maintenance Soon
+33.0,33.47,Maintenance Soon
+132.0,132.91,Healthy
+32.0,28.38,Critical
+79.0,76.65,Maintenance Soon
+47.0,46.29,Maintenance Soon
+35.0,30.23,Maintenance Soon
+91.0,87.83,Maintenance Soon
+159.0,159.1,Healthy
+50.0,49.84,Maintenance Soon
+145.0,145.77,Healthy
+227.0,227.6,Healthy
+21.0,35.82,Maintenance Soon
+143.0,143.24,Healthy
+118.0,117.88,Healthy
+50.0,47.85,Maintenance Soon
+133.0,133.83,Healthy
+65.0,63.97,Maintenance Soon
+93.0,93.07,Maintenance Soon
+9.0,18.3,Critical
+37.0,34.55,Maintenance Soon
+132.0,131.34,Healthy
+54.0,49.03,Maintenance Soon
+94.0,91.96,Maintenance Soon
+123.0,115.11,Healthy
+52.0,52.44,Maintenance Soon
+93.0,92.25,Maintenance Soon
+112.0,112.08,Healthy
+18.0,18.15,Critical
+111.0,110.98,Healthy
+185.0,186.78,Healthy
+46.0,39.79,Maintenance Soon
+112.0,95.33,Maintenance Soon
+135.0,135.3,Healthy
+110.0,109.78,Healthy
+47.0,40.52,Maintenance Soon
+2.0,1.71,Critical
+37.0,37.91,Maintenance Soon
+139.0,140.1,Healthy
+173.0,169.54,Healthy
+132.0,132.18,Healthy
+30.0,31.16,Maintenance Soon
+122.0,122.88,Healthy
+98.0,98.33,Maintenance Soon
+59.0,59.9,Maintenance Soon
+178.0,177.52,Healthy
+138.0,138.01,Healthy
+95.0,94.17,Maintenance Soon
+161.0,160.73,Healthy
+101.0,100.98,Healthy
+1401.47,1402.270000000001,Healthy
+156.0,156.72,Healthy
+207.0,208.7,Healthy
+47.0,46.29,Maintenance Soon
+91.0,90.24,Maintenance Soon
+60.0,59.62,Maintenance Soon
+83.0,71.38,Maintenance Soon
+68.0,69.33,Maintenance Soon
+142.0,142.13,Healthy
+139.0,139.51,Healthy
+198.0,197.51,Healthy
+59.0,47.37,Maintenance Soon
+8.0,8.97,Critical
+132.0,133.82,Healthy
+82.0,80.62,Maintenance Soon
+4.0,5.52,Critical
+17.0,21.4,Critical
+92.0,92.29,Maintenance Soon
+18.0,25.25,Critical
+223.0,222.86,Healthy
+4.0,6.68,Critical
+92.0,90.33,Maintenance Soon
+7.0,4.48,Critical
+219.0,219.01,Healthy
+138.0,137.53,Healthy
+76.0,73.88,Maintenance Soon
+147.0,146.66,Healthy
+164.0,163.97,Healthy
+3.0,10.87,Critical
+79.0,77.89,Maintenance Soon
+2.0,2.01,Critical
+204.0,203.86,Healthy
+17.0,23.05,Critical
+70.0,48.87,Maintenance Soon
+204.0,204.18,Healthy
+197.0,197.02,Healthy
+98.0,95.08,Maintenance Soon
+221.0,220.93,Healthy
+7.0,8.11,Critical
+154.0,154.45,Healthy
+115.0,115.02,Healthy
+158.0,158.65,Healthy
+92.0,91.68,Maintenance Soon
+181.0,181.37,Healthy
+12.0,12.37,Critical
+24.0,32.34,Maintenance Soon
+125.0,124.88,Healthy
+265.0,266.46,Healthy
+51.0,49.84,Maintenance Soon
+98.0,97.93,Maintenance Soon
+8.0,18.16,Critical
+102.0,101.07,Healthy
+61.0,60.21,Maintenance Soon
+103.0,104.49,Healthy
+75.0,73.97,Maintenance Soon
+99.0,99.14,Maintenance Soon
+137.0,138.43,Healthy
+202.0,202.81,Healthy
+160.0,160.07,Healthy
+133.0,132.71,Healthy
+161.0,160.58,Healthy
+42.0,40.56,Maintenance Soon
+103.0,104.15,Healthy
+177.0,176.78,Healthy
+68.0,68.45,Maintenance Soon
+312.0,308.72,Healthy
+40.0,34.02,Maintenance Soon
+0.0,1.35,Critical
+120.0,119.53,Healthy
+240.0,240.78,Healthy
+38.0,37.75,Maintenance Soon
+124.0,123.74,Healthy
+93.0,92.56,Maintenance Soon
+60.0,58.59,Maintenance Soon
+73.0,71.33,Maintenance Soon
+94.0,93.0,Maintenance Soon
+138.0,138.19,Healthy
+119.0,118.31,Healthy
+92.0,99.56,Maintenance Soon
+18.0,15.99,Critical
+118.0,118.35,Healthy
+187.0,187.68,Healthy
+236.0,239.46,Healthy
+136.0,135.62,Healthy
+52.0,53.67,Maintenance Soon
+78.0,77.29,Maintenance Soon
+209.0,210.14,Healthy
+69.0,68.89,Maintenance Soon
+38.0,38.27,Maintenance Soon
+64.0,64.66,Maintenance Soon
+49.0,48.28,Maintenance Soon
+129.0,129.49,Healthy
+95.0,95.27,Maintenance Soon
+243.0,244.15,Healthy
+131.0,130.97,Healthy
+123.0,122.12,Healthy
+173.0,167.46,Healthy
+155.0,155.87,Healthy
+44.0,43.17,Maintenance Soon
+29.0,28.96,Critical
+72.0,71.11,Maintenance Soon
+181.0,180.12,Healthy
+134.0,135.63,Healthy
+6.0,3.56,Critical
+125.0,125.32,Healthy
+326.0,323.47,Healthy
+77.0,76.82,Maintenance Soon
+190.0,186.11,Healthy
+341.0,339.65,Healthy
+104.0,103.88,Healthy
+133.0,132.88,Healthy
+70.0,70.15,Maintenance Soon
+26.0,22.77,Critical
+52.0,45.73,Maintenance Soon
+46.0,43.3,Maintenance Soon
+75.0,74.93,Maintenance Soon
+131.0,130.7,Healthy
+42.0,43.56,Maintenance Soon
+276.0,276.93,Healthy
+197.0,198.25,Healthy
+3.0,9.2,Critical
+35.0,35.33,Maintenance Soon
+117.0,115.81,Healthy
+162.0,161.95,Healthy
+83.0,83.61,Maintenance Soon
+123.0,122.95,Healthy
+215.0,214.47,Healthy
+87.0,86.11,Maintenance Soon
+79.0,78.65,Maintenance Soon
+65.0,63.01,Maintenance Soon
+19.0,21.02,Critical
+97.0,97.34,Maintenance Soon
+14.0,12.09,Critical
+118.0,114.64,Healthy
+270.0,270.21,Healthy
+234.0,231.94,Healthy
+5.0,4.07,Critical
+110.0,111.78,Healthy
+151.0,150.73,Healthy
+146.0,145.88,Healthy
+46.0,45.36,Maintenance Soon
+1.0,2.34,Critical
+261.0,259.54,Healthy
+24.0,28.72,Critical
+53.0,52.43,Maintenance Soon
+16.0,18.24,Critical
+18.0,17.22,Critical
+36.0,37.89,Maintenance Soon
+95.0,93.72,Maintenance Soon
+71.0,75.48,Maintenance Soon
+206.0,207.58,Healthy
+223.0,225.67,Healthy
+187.0,186.89,Healthy
+100.0,102.47,Healthy
+165.0,164.99,Healthy
+45.0,45.29,Maintenance Soon
+27.0,27.69,Critical
+112.0,113.59,Healthy
+92.0,91.94,Maintenance Soon
+132.0,131.96,Healthy
+242.0,241.46,Healthy
+139.0,138.63,Healthy
+120.0,120.42,Healthy
+95.0,95.09,Maintenance Soon
+93.0,92.98,Maintenance Soon
+190.0,189.37,Healthy
+119.0,119.49,Healthy
+17.0,20.49,Critical
+19.0,24.1,Critical
+99.0,98.55,Maintenance Soon
+2.0,2.85,Critical
+110.0,110.76,Healthy
+167.0,166.94,Healthy
+99.0,99.48,Maintenance Soon
+161.0,161.32,Healthy
+215.0,215.01,Healthy
+96.0,95.57,Maintenance Soon
+129.0,128.88,Healthy
+92.0,92.45,Maintenance Soon
+210.0,210.06,Healthy
+26.0,29.94,Critical
+123.0,123.03,Healthy
+219.0,218.52,Healthy
+50.0,49.83,Maintenance Soon
+164.0,164.07,Healthy
+65.0,64.73,Maintenance Soon
+207.0,209.11,Healthy
+185.0,185.09,Healthy
+64.0,63.31,Maintenance Soon
+248.0,247.78,Healthy
+99.0,99.74,Maintenance Soon
+103.0,103.29,Healthy
+192.0,192.16,Healthy
+112.0,107.34,Healthy
+140.0,140.92,Healthy
+173.0,173.01,Healthy
+195.0,194.67,Healthy
+74.0,74.72,Maintenance Soon
+23.0,23.3,Critical
+168.0,168.2,Healthy
+87.0,87.16,Maintenance Soon
+346.0,346.26,Healthy
+113.0,113.27,Healthy
+13.0,18.58,Critical
+79.0,77.95,Maintenance Soon
+107.0,106.82,Healthy
+44.0,41.03,Maintenance Soon
+36.0,38.34,Maintenance Soon
+46.0,46.13,Maintenance Soon
+127.0,127.57,Healthy
+164.0,163.4,Healthy
+19.0,25.04,Critical
+28.0,22.81,Critical
+61.0,59.68,Maintenance Soon
+35.0,32.79,Maintenance Soon
+28.0,32.17,Maintenance Soon
+82.0,82.44,Maintenance Soon
+144.0,142.83,Healthy
+56.0,60.05,Maintenance Soon
+124.0,123.69,Healthy
+39.0,38.94,Maintenance Soon
+226.0,225.75,Healthy
+156.0,156.14,Healthy
+154.0,154.06,Healthy
+335.0,333.07,Healthy
+174.0,172.43,Healthy
+125.0,125.46,Healthy
+10.0,20.73,Critical
+150.0,149.43,Healthy
+76.0,76.62,Maintenance Soon
+169.0,170.27,Healthy
+55.0,47.73,Maintenance Soon
+112.0,111.57,Healthy
+56.0,56.36,Maintenance Soon
+115.0,114.62,Healthy
+5.0,13.03,Critical
+253.0,252.65,Healthy
+66.0,64.89,Maintenance Soon
+17.0,23.89,Critical
+69.0,68.47,Maintenance Soon
+38.0,38.73,Maintenance Soon
+116.0,116.21,Healthy
+226.0,225.59,Healthy
+78.0,78.45,Maintenance Soon
+91.0,92.2,Maintenance Soon
+65.0,65.08,Maintenance Soon
+131.0,130.89,Healthy
+105.0,104.62,Healthy
+217.0,218.86,Healthy
+55.0,60.68,Maintenance Soon
+175.0,175.2,Healthy
+88.0,87.98,Maintenance Soon
+58.0,57.24,Maintenance Soon
+182.0,182.22,Healthy
+131.0,130.78,Healthy
+85.0,84.88,Maintenance Soon
+45.0,41.03,Maintenance Soon
+178.0,177.72,Healthy
+170.0,169.89,Healthy
+82.0,82.06,Maintenance Soon
+104.0,103.67,Healthy
+76.0,75.37,Maintenance Soon
+8.0,7.05,Critical
+156.0,156.56,Healthy
+168.0,168.4,Healthy
+163.0,162.43,Healthy
+13.0,12.73,Critical
+205.0,204.76,Healthy
+159.0,159.4,Healthy
+109.0,109.8,Healthy
+122.0,120.45,Healthy
+105.0,105.16,Healthy
+66.0,58.21,Maintenance Soon
+95.0,98.66,Maintenance Soon
+96.0,99.11,Maintenance Soon
+108.0,107.56,Healthy
+89.0,89.62,Maintenance Soon
+79.0,79.39,Maintenance Soon
+7.0,19.22,Critical
+87.0,86.87,Maintenance Soon
+120.0,110.83,Healthy
+95.0,95.98,Maintenance Soon
+204.0,204.06,Healthy
+252.0,252.65,Healthy
+152.0,152.64,Healthy
+113.0,113.17,Healthy
+116.0,115.64,Healthy
+28.0,36.71,Maintenance Soon
+25.0,14.25,Critical
+149.0,149.78,Healthy
+44.0,43.99,Maintenance Soon
+78.0,77.27,Maintenance Soon
+169.0,171.82,Healthy
+15.0,31.12,Maintenance Soon
+156.0,156.88,Healthy
+152.0,151.94,Healthy
+55.0,55.34,Maintenance Soon
+1273.47,1271.1100000000008,Healthy
+168.0,168.25,Healthy
+10.0,20.38,Critical
+92.0,92.51,Maintenance Soon
+91.0,90.98,Maintenance Soon
+211.0,211.17,Healthy
+153.0,152.73,Healthy
+188.0,187.97,Healthy
+128.0,128.8,Healthy
+179.0,179.35,Healthy
+15.0,19.8,Critical
+7.0,4.96,Critical
+31.0,33.47,Maintenance Soon
+141.0,142.27,Healthy
+41.0,34.18,Maintenance Soon
+190.0,190.69,Healthy
+42.0,43.31,Maintenance Soon
+147.0,149.65,Healthy
+133.0,133.46,Healthy
+127.0,127.48,Healthy
+74.0,73.98,Maintenance Soon
+148.0,147.72,Healthy
+172.0,172.22,Healthy
+142.0,141.65,Healthy
+148.0,148.12,Healthy
+45.0,43.12,Maintenance Soon
+279.0,276.38,Healthy
+202.0,202.07,Healthy
+24.0,29.7,Critical
+118.0,117.53,Healthy
+188.0,187.32,Healthy
+57.0,55.84,Maintenance Soon
+141.0,140.8,Healthy
+150.0,149.29,Healthy
+14.0,11.33,Critical
+1.0,5.63,Critical
+21.0,26.37,Critical
+25.0,34.08,Maintenance Soon
+153.0,154.22,Healthy
+180.0,178.5,Healthy
+55.0,52.38,Maintenance Soon
+114.0,113.26,Healthy
+171.0,169.36,Healthy
+123.0,122.57,Healthy
+141.0,141.44,Healthy
+48.0,48.16,Maintenance Soon
+102.0,102.48,Healthy
+239.0,235.57,Healthy
+152.0,151.48,Healthy
+92.0,79.39,Maintenance Soon
+45.0,45.55,Maintenance Soon
+61.0,61.91,Maintenance Soon
+168.0,167.51,Healthy
+159.0,160.07,Healthy
+202.0,203.83,Healthy
+153.0,153.95,Healthy
+173.0,173.03,Healthy
+151.0,150.72,Healthy
+50.0,45.82,Maintenance Soon
+143.0,143.56,Healthy
+154.0,102.04,Healthy
+126.0,126.36,Healthy
+80.0,75.49,Maintenance Soon
+97.0,98.09,Maintenance Soon
+5.0,5.34,Critical
+3.0,6.36,Critical
+191.0,191.19,Healthy
+211.0,210.99,Healthy
+248.0,243.66,Healthy
+157.0,157.93,Healthy
+132.0,132.76,Healthy
+56.0,56.85,Maintenance Soon
+75.0,72.32,Maintenance Soon
+97.0,91.0,Maintenance Soon
+156.0,156.74,Healthy
+247.0,244.27,Healthy
+119.0,118.68,Healthy
+145.0,145.93,Healthy
+97.0,96.53,Maintenance Soon
+208.0,207.09,Healthy
+2.0,6.9,Critical
+26.0,38.25,Maintenance Soon
+93.0,92.39,Maintenance Soon
+140.0,137.45,Healthy
+293.0,295.71,Healthy
+229.0,229.25,Healthy
+171.0,171.47,Healthy
+28.0,29.2,Critical
+119.0,119.08,Healthy
+26.0,25.32,Critical
+84.0,84.98,Maintenance Soon
+79.0,78.68,Maintenance Soon
+202.0,200.19,Healthy
+0.0,4.86,Critical
+280.0,276.81,Healthy
+282.0,282.7,Healthy
+105.0,105.42,Healthy
+105.0,104.29,Healthy
+67.0,66.03,Maintenance Soon
+135.0,135.8,Healthy
+96.0,98.88,Maintenance Soon
+1.0,8.17,Critical
+166.0,166.62,Healthy
+50.0,48.5,Maintenance Soon
+48.0,44.81,Maintenance Soon
+34.0,31.15,Maintenance Soon
+33.0,33.2,Maintenance Soon
+28.0,29.48,Critical
+225.0,224.76,Healthy
+128.0,127.68,Healthy
+60.0,58.49,Maintenance Soon
+82.0,81.62,Maintenance Soon
+176.0,175.78,Healthy
+62.0,60.08,Maintenance Soon
+98.0,96.81,Maintenance Soon
+121.0,120.2,Healthy
+178.0,178.16,Healthy
+199.0,199.47,Healthy
+84.0,84.42,Maintenance Soon
+196.0,196.62,Healthy
+153.0,153.51,Healthy
+109.0,109.1,Healthy
+49.0,48.19,Maintenance Soon
+192.0,192.78,Healthy
+239.0,237.95,Healthy
+62.0,62.51,Maintenance Soon
+123.0,122.41,Healthy
+227.0,226.75,Healthy
+118.0,110.1,Healthy
+1335.47,1336.470000000001,Healthy
+103.0,103.65,Healthy
+68.0,65.59,Maintenance Soon
+187.0,186.82,Healthy
+57.0,54.4,Maintenance Soon
+123.0,122.28,Healthy
+135.0,134.22,Healthy
+18.0,23.64,Critical
+114.0,114.8,Healthy
+49.0,49.26,Maintenance Soon
+142.0,143.46,Healthy
+23.0,22.21,Critical
+18.0,25.91,Critical
+218.0,217.48,Healthy
+43.0,43.91,Maintenance Soon
+142.0,139.04,Healthy
+152.0,151.11,Healthy
+150.0,150.73,Healthy
+94.0,93.93,Maintenance Soon
+177.0,177.96,Healthy
+162.0,162.5,Healthy
+55.0,52.57,Maintenance Soon
+39.0,40.18,Maintenance Soon
+190.0,190.15,Healthy
+83.0,83.6,Maintenance Soon
+101.0,102.25,Healthy
+96.0,97.08,Maintenance Soon
+164.0,164.9,Healthy
+51.0,48.21,Maintenance Soon
+77.0,76.3,Maintenance Soon
+136.0,135.77,Healthy
+38.0,38.99,Maintenance Soon
+195.0,194.49,Healthy
+1.0,6.05,Critical
+0.0,4.03,Critical
+233.0,230.46,Healthy
+69.0,69.69,Maintenance Soon
+54.0,54.15,Maintenance Soon
+139.0,137.91,Healthy
+109.0,108.68,Healthy
+110.0,110.18,Healthy
+9.0,11.2,Critical
+44.0,40.5,Maintenance Soon
+145.0,144.22,Healthy
+180.0,180.05,Healthy
+3.0,6.89,Critical
+162.0,161.68,Healthy
+111.0,111.3,Healthy
+58.0,56.69,Maintenance Soon
+104.0,103.57,Healthy
+155.0,155.11,Healthy
+90.0,87.73,Maintenance Soon
+127.0,126.58,Healthy
+52.0,52.73,Maintenance Soon
+110.0,109.22,Healthy
+23.0,17.95,Critical
+156.0,157.75,Healthy
+273.0,273.25,Healthy
+126.0,125.42,Healthy
+36.0,33.77,Maintenance Soon
+141.0,141.55,Healthy
+65.0,64.67,Maintenance Soon
+107.0,106.71,Healthy
+127.0,127.41,Healthy
+139.0,137.25,Healthy
+182.0,182.44,Healthy
+31.0,34.69,Maintenance Soon
+46.0,44.12,Maintenance Soon
+213.0,212.91,Healthy
+132.0,132.07,Healthy
+169.0,168.46,Healthy
+182.0,181.16,Healthy
+170.0,168.08,Healthy
+113.0,113.52,Healthy
+103.0,102.66,Healthy
+149.0,148.73,Healthy
+110.0,110.3,Healthy
+19.0,7.53,Critical
+163.0,162.59,Healthy
+61.0,60.37,Maintenance Soon
+117.0,117.18,Healthy
+160.0,160.0,Healthy
+245.0,244.83,Healthy
+49.0,49.92,Maintenance Soon
+250.0,251.9,Healthy
+64.0,64.6,Maintenance Soon
+144.0,143.91,Healthy
+148.0,148.46,Healthy
+86.0,85.08,Maintenance Soon
+123.0,123.37,Healthy
+54.0,54.68,Maintenance Soon
+40.0,34.61,Maintenance Soon
+110.0,111.0,Healthy
+139.0,138.82,Healthy
+59.0,57.42,Maintenance Soon
+33.0,18.9,Critical
+45.0,48.73,Maintenance Soon
+76.0,76.94,Maintenance Soon
+181.0,180.78,Healthy
+58.0,58.77,Maintenance Soon
+172.0,170.51,Healthy
+120.0,120.59,Healthy
+8.0,12.41,Critical
+114.0,114.32,Healthy
+205.0,207.21,Healthy
+34.0,38.76,Maintenance Soon
+256.0,255.76,Healthy
+1306.47,1306.680000000001,Healthy
+75.0,74.8,Maintenance Soon
+58.0,57.7,Maintenance Soon
+239.0,238.21,Healthy
+145.0,145.1,Healthy
+36.0,39.9,Maintenance Soon
+269.0,268.38,Healthy
+125.0,124.65,Healthy
+73.0,71.48,Maintenance Soon
+59.0,58.95,Maintenance Soon
+26.0,26.69,Critical
+0.0,4.54,Critical
+39.0,40.16,Maintenance Soon
+158.0,158.2,Healthy
+82.0,81.13,Maintenance Soon
+48.0,48.34,Maintenance Soon
+61.0,61.35,Maintenance Soon
+5.0,6.35,Critical
+117.0,116.91,Healthy
+86.0,85.96,Maintenance Soon
+68.0,65.6,Maintenance Soon
+254.0,254.75,Healthy
+56.0,53.97,Maintenance Soon
+22.0,20.21,Critical
+29.0,31.19,Maintenance Soon
+114.0,114.39,Healthy
+308.0,304.86,Healthy
+140.0,139.74,Healthy
+1357.47,1355.8400000000008,Healthy
+146.0,146.1,Healthy
+158.0,157.7,Healthy
+155.0,154.99,Healthy
+71.0,70.97,Maintenance Soon
+139.0,139.03,Healthy
+26.0,21.22,Critical
+180.0,179.85,Healthy
+13.0,15.01,Critical
+111.0,110.93,Healthy
+29.0,29.4,Critical
+122.0,121.74,Healthy
+4.0,8.75,Critical
+36.0,37.46,Maintenance Soon
+10.0,7.87,Critical
+15.0,17.18,Critical
+37.0,38.13,Maintenance Soon
+45.0,52.52,Maintenance Soon
+313.0,310.51,Healthy
+13.0,14.1,Critical
+58.0,56.6,Maintenance Soon
+96.0,96.06,Maintenance Soon
+37.0,37.1,Maintenance Soon
+48.0,48.44,Maintenance Soon
+142.0,143.33,Healthy
+309.0,305.74,Healthy
+38.0,35.94,Maintenance Soon
+77.0,70.44,Maintenance Soon
+66.0,65.62,Maintenance Soon
+116.0,116.66,Healthy
+53.0,55.28,Maintenance Soon
+39.0,52.79,Maintenance Soon
+204.0,204.43,Healthy
+145.0,145.15,Healthy
+1279.47,1278.3700000000008,Healthy
+278.0,278.31,Healthy
+88.0,87.58,Maintenance Soon
+149.0,149.08,Healthy
+258.0,258.14,Healthy
+110.0,109.89,Healthy
+1284.47,1285.8600000000008,Healthy
+56.0,55.61,Maintenance Soon
+26.0,22.01,Critical
+170.0,170.29,Healthy
+8.0,8.95,Critical
+193.0,192.45,Healthy
+186.0,186.4,Healthy
+25.0,17.27,Critical
+22.0,13.18,Critical
+75.0,75.08,Maintenance Soon
+7.0,15.81,Critical
+114.0,113.62,Healthy
+43.0,42.42,Maintenance Soon
+14.0,6.93,Critical
+51.0,50.13,Maintenance Soon
+53.0,57.24,Maintenance Soon
+191.0,191.56,Healthy
+147.0,147.22,Healthy
+131.0,136.04,Healthy
+11.0,11.63,Critical
+12.0,14.34,Critical
+82.0,71.69,Maintenance Soon
+120.0,119.89,Healthy
+126.0,126.46,Healthy
+199.0,198.73,Healthy
+2.0,8.06,Critical
+176.0,165.39,Healthy
+152.0,151.53,Healthy
+3.0,4.53,Critical
+81.0,81.12,Maintenance Soon
+176.0,175.66,Healthy
+78.0,78.76,Maintenance Soon
+59.0,57.45,Maintenance Soon
+110.0,109.94,Healthy
+220.0,219.42,Healthy
+177.0,176.0,Healthy
+31.0,29.71,Critical
+67.0,65.99,Maintenance Soon
+18.0,25.05,Critical
+185.0,185.08,Healthy
+198.0,198.27,Healthy
+204.0,204.09,Healthy
+67.0,66.85,Maintenance Soon
+185.0,184.83,Healthy
+148.0,148.15,Healthy
+0.0,5.17,Critical
+201.0,201.09,Healthy
+271.0,270.59,Healthy
+168.0,167.71,Healthy
+143.0,144.05,Healthy
+21.0,25.74,Critical
+223.0,222.4,Healthy
+158.0,157.17,Healthy
+36.0,34.39,Maintenance Soon
+188.0,187.68,Healthy
+202.0,202.23,Healthy
+59.0,58.37,Maintenance Soon
+91.0,72.59,Maintenance Soon
+31.0,31.93,Maintenance Soon
+61.0,59.69,Maintenance Soon
+172.0,170.93,Healthy
+248.0,248.43,Healthy
+180.0,180.61,Healthy
+156.0,156.29,Healthy
+90.0,89.38,Maintenance Soon
+77.0,76.95,Maintenance Soon
+181.0,181.72,Healthy
+152.0,151.87,Healthy
+101.0,101.31,Healthy
+196.0,195.26,Healthy
+85.0,84.89,Maintenance Soon
+79.0,79.91,Maintenance Soon
+27.0,28.65,Critical
+227.0,228.59,Healthy
+124.0,125.21,Healthy
+139.0,139.15,Healthy
+152.0,152.45,Healthy
+116.0,115.89,Healthy
+45.0,46.33,Maintenance Soon
+316.0,314.62,Healthy
+106.0,105.65,Healthy
+20.0,15.17,Critical
+49.0,41.6,Maintenance Soon
+92.0,91.03,Maintenance Soon
+83.0,83.51,Maintenance Soon
+80.0,89.21,Maintenance Soon
+78.0,78.85,Maintenance Soon
+27.0,33.65,Maintenance Soon
+32.0,32.9,Maintenance Soon
+12.0,11.05,Critical
+33.0,31.5,Maintenance Soon
+174.0,173.66,Healthy
+1.0,4.5,Critical
+76.0,74.48,Maintenance Soon
+166.0,167.04,Healthy
+142.0,141.46,Healthy
+91.0,91.61,Maintenance Soon
+251.0,250.59,Healthy
+6.0,8.03,Critical
+116.0,116.09,Healthy
+173.0,173.53,Healthy
+47.0,45.9,Maintenance Soon
+91.0,90.65,Maintenance Soon
+155.0,154.75,Healthy
+127.0,127.04,Healthy
+152.0,150.41,Healthy
+162.0,161.5,Healthy
+296.0,298.28,Healthy
+36.0,36.25,Maintenance Soon
+67.0,58.26,Maintenance Soon
+102.0,99.51,Maintenance Soon
+27.0,18.84,Critical
+125.0,125.03,Healthy
+191.0,191.58,Healthy
+120.0,124.39,Healthy
+94.0,94.36,Maintenance Soon
+78.0,78.41,Maintenance Soon
+73.0,72.87,Maintenance Soon
+72.0,71.64,Maintenance Soon
+121.0,120.4,Healthy
+21.0,26.04,Critical
+162.0,161.85,Healthy
+8.0,7.41,Critical
+148.0,147.75,Healthy
+32.0,40.97,Maintenance Soon
+142.0,142.44,Healthy
+153.0,153.64,Healthy
+107.0,107.14,Healthy
+92.0,90.78,Maintenance Soon
+5.0,11.16,Critical
+68.0,68.13,Maintenance Soon
+80.0,80.18,Maintenance Soon
+113.0,113.48,Healthy
+57.0,57.7,Maintenance Soon
+60.0,61.19,Maintenance Soon
+119.0,118.86,Healthy
+244.0,244.44,Healthy
+153.0,152.16,Healthy
+171.0,171.95,Healthy
+21.0,23.85,Critical
+133.0,133.82,Healthy
+138.0,137.48,Healthy
+58.0,52.97,Maintenance Soon
+148.0,148.32,Healthy
+122.0,121.55,Healthy
+218.0,218.05,Healthy
+198.0,198.57,Healthy
+195.0,194.45,Healthy
+155.0,154.8,Healthy
+9.0,7.76,Critical
+153.0,152.21,Healthy
+144.0,143.6,Healthy
+218.0,219.4,Healthy
+26.0,27.16,Critical
+271.0,272.62,Healthy
+274.0,275.22,Healthy
+74.0,73.32,Maintenance Soon
+8.0,12.98,Critical
+15.0,18.47,Critical
+148.0,148.08,Healthy
+38.0,36.22,Maintenance Soon
+29.0,26.32,Critical
+147.0,147.33,Healthy
+197.0,196.15,Healthy
+119.0,118.08,Healthy
+148.0,147.73,Healthy
+49.0,53.14,Maintenance Soon
+148.0,147.77,Healthy
+23.0,28.78,Critical
+75.0,75.61,Maintenance Soon
+119.0,118.93,Healthy
+108.0,109.28,Healthy
+111.0,110.67,Healthy
+106.0,106.45,Healthy
+49.0,29.31,Critical
+47.0,46.04,Maintenance Soon
+155.0,155.51,Healthy
+252.0,251.87,Healthy
+160.0,159.76,Healthy
+146.0,145.64,Healthy
+106.0,105.44,Healthy
+239.0,235.97,Healthy
+96.0,95.57,Maintenance Soon
+16.0,29.3,Critical
+14.0,14.64,Critical
+135.0,135.02,Healthy
+168.0,168.32,Healthy
+283.0,281.19,Healthy
+96.0,94.92,Maintenance Soon
+107.0,106.66,Healthy
+15.0,15.56,Critical
+188.0,187.71,Healthy
+75.0,75.0,Maintenance Soon
+6.0,7.0,Critical
+164.0,163.82,Healthy
+109.0,109.34,Healthy
+143.0,143.07,Healthy
+0.0,7.05,Critical
+17.0,14.57,Critical
+70.0,70.23,Maintenance Soon
+78.0,78.46,Maintenance Soon
+44.0,48.39,Maintenance Soon
+184.0,184.36,Healthy
+138.0,137.49,Healthy
+0.0,4.11,Critical
+44.0,34.06,Maintenance Soon
+118.0,118.96,Healthy
+84.0,84.2,Maintenance Soon
+138.0,138.14,Healthy
+55.0,52.91,Maintenance Soon
+18.0,21.15,Critical
+172.0,172.55,Healthy
+339.0,334.04,Healthy
+94.0,94.75,Maintenance Soon
+2.0,1.95,Critical
+163.0,164.46,Healthy
+200.0,199.59,Healthy
+175.0,153.23,Healthy
+23.0,26.72,Critical
+228.0,227.0,Healthy
+16.0,20.44,Critical
+104.0,104.11,Healthy
+48.0,39.29,Maintenance Soon
+1.0,3.39,Critical
+49.0,52.2,Maintenance Soon
+112.0,113.13,Healthy
+8.0,10.69,Critical
+72.0,72.22,Maintenance Soon
+71.0,70.27,Maintenance Soon
+54.0,42.0,Maintenance Soon
+58.0,57.35,Maintenance Soon
+41.0,29.47,Critical
+106.0,97.38,Maintenance Soon
+197.0,197.02,Healthy
+149.0,147.92,Healthy
+8.0,16.06,Critical
+89.0,86.91,Maintenance Soon
+50.0,47.12,Maintenance Soon
+44.0,44.08,Maintenance Soon
+29.0,18.45,Critical
+192.0,192.42,Healthy
+50.0,50.18,Maintenance Soon
+132.0,131.31,Healthy
+292.0,289.66,Healthy
+62.0,62.22,Maintenance Soon
+95.0,93.35,Maintenance Soon
+83.0,81.09,Maintenance Soon
+152.0,152.14,Healthy
+36.0,35.68,Maintenance Soon
+100.0,99.66,Maintenance Soon
+2.0,4.29,Critical
+110.0,109.78,Healthy
+2.0,6.19,Critical
+21.0,21.83,Critical
+17.0,25.37,Critical
+1.0,4.09,Critical
+166.0,166.71,Healthy
+170.0,171.41,Healthy
+79.0,80.06,Maintenance Soon
+6.0,6.02,Critical
+17.0,6.79,Critical
+25.0,24.87,Critical
+33.0,19.02,Critical
+181.0,181.11,Healthy
+96.0,97.87,Maintenance Soon
+119.0,119.03,Healthy
+91.0,91.56,Maintenance Soon
+145.0,144.92,Healthy
+105.0,104.76,Healthy
+146.0,145.87,Healthy
+48.0,53.57,Maintenance Soon
+91.0,92.19,Maintenance Soon
+234.0,232.63,Healthy
+22.0,21.75,Critical
+49.0,46.21,Maintenance Soon
+6.0,6.41,Critical
+89.0,89.23,Maintenance Soon
+61.0,60.15,Maintenance Soon
+193.0,193.19,Healthy
+167.0,167.47,Healthy
+179.0,180.3,Healthy
+151.0,151.67,Healthy
+18.0,15.51,Critical
+75.0,71.71,Maintenance Soon
+3.0,3.39,Critical
+115.0,115.26,Healthy
+306.0,306.96,Healthy
+88.0,87.13,Maintenance Soon
+127.0,126.08,Healthy
+150.0,150.74,Healthy
+68.0,68.28,Maintenance Soon
+165.0,164.26,Healthy
+137.0,136.3,Healthy
+142.0,142.57,Healthy
+141.0,141.93,Healthy
+189.0,189.03,Healthy
+190.0,190.68,Healthy
+120.0,120.19,Healthy
+109.0,109.01,Healthy
+130.0,130.26,Healthy
+131.0,131.53,Healthy
+127.0,127.59,Healthy
+26.0,29.22,Critical
+114.0,113.81,Healthy
+282.0,282.46,Healthy
+184.0,184.3,Healthy
+85.0,84.32,Maintenance Soon
+134.0,134.44,Healthy
+39.0,33.66,Maintenance Soon
+0.0,4.34,Critical
+68.0,68.56,Maintenance Soon
+33.0,35.34,Maintenance Soon
+103.0,102.47,Healthy
+191.0,191.52,Healthy
+18.0,14.33,Critical
+101.0,100.63,Healthy
+143.0,143.39,Healthy
+127.0,126.17,Healthy
+204.0,205.34,Healthy
+130.0,129.12,Healthy
+101.0,101.32,Healthy
+109.0,108.45,Healthy
+93.0,93.18,Maintenance Soon
+10.0,17.77,Critical
+39.0,27.97,Critical
+121.0,120.81,Healthy
+248.0,248.08,Healthy
+153.0,152.88,Healthy
+168.0,168.04,Healthy
+16.0,13.74,Critical
+144.0,146.58,Healthy
+46.0,41.2,Maintenance Soon
+137.0,136.97,Healthy
+196.0,196.45,Healthy
+85.0,85.26,Maintenance Soon
+7.0,11.28,Critical
+124.0,124.31,Healthy
+10.0,14.69,Critical
+6.0,8.1,Critical
+340.0,337.56,Healthy
+157.0,157.41,Healthy
+11.0,11.35,Critical
+193.0,193.43,Healthy
+15.0,24.22,Critical
+188.0,187.99,Healthy
+130.0,129.22,Healthy
+76.0,75.76,Maintenance Soon
+24.0,27.58,Critical
+271.0,271.93,Healthy
+97.0,100.13,Healthy
+108.0,108.53,Healthy
+173.0,171.32,Healthy
+130.0,130.26,Healthy
+186.0,185.99,Healthy
+15.0,28.01,Critical
+175.0,172.3,Healthy
+250.0,249.25,Healthy
+47.0,46.7,Maintenance Soon
+157.0,156.98,Healthy
+133.0,130.91,Healthy
+66.0,65.98,Maintenance Soon
+29.0,28.71,Critical
+43.0,35.01,Maintenance Soon
+50.0,50.06,Maintenance Soon
+76.0,77.34,Maintenance Soon
+97.0,97.15,Maintenance Soon
+93.0,93.51,Maintenance Soon
+85.0,84.35,Maintenance Soon
+156.0,156.37,Healthy
+60.0,49.93,Maintenance Soon
+17.0,17.29,Critical
+68.0,67.41,Maintenance Soon
+173.0,173.05,Healthy
+93.0,92.22,Maintenance Soon
+36.0,34.87,Maintenance Soon
+130.0,129.8,Healthy
+255.0,255.3,Healthy
+97.0,97.9,Maintenance Soon
+238.0,235.16,Healthy
+23.0,22.46,Critical
+90.0,88.39,Maintenance Soon
+169.0,169.38,Healthy
+192.0,190.78,Healthy
+17.0,10.14,Critical
+100.0,101.24,Healthy
+0.0,2.74,Critical
+46.0,42.51,Maintenance Soon
+96.0,96.72,Maintenance Soon
+166.0,165.77,Healthy
+204.0,202.11,Healthy
+25.0,32.9,Maintenance Soon
+224.0,223.94,Healthy
+187.0,187.38,Healthy
+119.0,118.88,Healthy
+19.0,19.75,Critical
+142.0,142.86,Healthy
+43.0,42.38,Maintenance Soon
+120.0,119.97,Healthy
+109.0,107.56,Healthy
+163.0,163.12,Healthy
+76.0,74.87,Maintenance Soon
+121.0,119.79,Healthy
+202.0,201.75,Healthy
+6.0,3.95,Critical
+65.0,53.97,Maintenance Soon
+99.0,99.21,Maintenance Soon
+125.0,122.05,Healthy
+50.0,48.39,Maintenance Soon
+85.0,63.59,Maintenance Soon
+88.0,87.46,Maintenance Soon
+123.0,123.18,Healthy
+130.0,131.27,Healthy
+8.0,7.32,Critical
+75.0,75.63,Maintenance Soon
+11.0,18.04,Critical
+100.0,98.28,Maintenance Soon
+227.0,228.69,Healthy
+113.0,112.94,Healthy
+16.0,4.23,Critical
+99.0,93.04,Maintenance Soon
+53.0,52.74,Maintenance Soon
+125.0,125.08,Healthy
+259.0,259.36,Healthy
+240.0,240.0,Healthy
+64.0,60.51,Maintenance Soon
+97.0,98.16,Maintenance Soon
+1358.47,1357.2900000000009,Healthy
+113.0,113.17,Healthy
+163.0,162.87,Healthy
+129.0,129.48,Healthy
+193.0,193.13,Healthy
+238.0,239.81,Healthy
+59.0,52.17,Maintenance Soon
+189.0,188.12,Healthy
+164.0,164.01,Healthy
+129.0,129.48,Healthy
+41.0,38.06,Maintenance Soon
+51.0,51.29,Maintenance Soon
+121.0,120.44,Healthy
+26.0,28.71,Critical
+0.0,2.64,Critical
+35.0,23.23,Critical
+197.0,197.05,Healthy
+32.0,19.08,Critical
+7.0,10.24,Critical
+130.0,130.35,Healthy
+136.0,136.38,Healthy
+134.0,134.5,Healthy
+189.0,186.78,Healthy
+97.0,96.8,Maintenance Soon
+2.0,2.01,Critical
+19.0,23.17,Critical
+150.0,150.25,Healthy
+143.0,145.36,Healthy
+168.0,168.33,Healthy
+171.0,170.82,Healthy
+165.0,164.6,Healthy
+45.0,43.41,Maintenance Soon
+52.0,54.1,Maintenance Soon
+28.0,35.8,Maintenance Soon
+81.0,80.43,Maintenance Soon
+95.0,95.21,Maintenance Soon
+179.0,177.57,Healthy
+124.0,123.08,Healthy
+35.0,38.32,Maintenance Soon
+139.0,139.36,Healthy
+122.0,122.93,Healthy
+129.0,129.1,Healthy
+71.0,71.05,Maintenance Soon
+97.0,96.96,Maintenance Soon
+54.0,51.93,Maintenance Soon
+40.0,39.22,Maintenance Soon
+155.0,155.89,Healthy
+46.0,46.73,Maintenance Soon
+132.0,131.91,Healthy
+270.0,272.27,Healthy
+157.0,157.18,Healthy
+266.0,267.07,Healthy
+101.0,100.64,Healthy
+216.0,216.62,Healthy
+139.0,138.77,Healthy
+157.0,157.06,Healthy
+148.0,147.88,Healthy
+37.0,37.56,Maintenance Soon
+126.0,125.82,Healthy
+1353.47,1353.210000000001,Healthy
+122.0,122.19,Healthy
+252.0,250.78,Healthy
+90.0,90.07,Maintenance Soon
+136.0,136.4,Healthy
+114.0,115.87,Healthy
+117.0,117.52,Healthy
+217.0,216.83,Healthy
+53.0,53.2,Maintenance Soon
+77.0,78.46,Maintenance Soon
+28.0,32.06,Maintenance Soon
+302.0,304.64,Healthy
+73.0,72.94,Maintenance Soon
+151.0,152.88,Healthy
+15.0,19.62,Critical
+184.0,183.94,Healthy
+50.0,47.87,Maintenance Soon
+99.0,99.57,Maintenance Soon
+189.0,185.05,Healthy
+179.0,179.53,Healthy
+65.0,64.31,Maintenance Soon
+13.0,14.02,Critical
+31.0,30.26,Maintenance Soon
+39.0,34.64,Maintenance Soon
+102.0,102.69,Healthy
+29.0,25.47,Critical
+106.0,105.8,Healthy
+90.0,89.82,Maintenance Soon
+135.0,135.2,Healthy
+52.0,51.75,Maintenance Soon
+191.0,190.85,Healthy
+109.0,110.28,Healthy
+182.0,181.28,Healthy
+73.0,72.66,Maintenance Soon
+75.0,75.04,Maintenance Soon
+41.0,35.96,Maintenance Soon
+110.0,111.36,Healthy
+131.0,132.11,Healthy
+112.0,112.52,Healthy
+137.0,136.94,Healthy
+103.0,100.36,Healthy
+35.0,38.11,Maintenance Soon
+3.0,7.48,Critical
+209.0,208.53,Healthy
+117.0,117.1,Healthy
+50.0,50.21,Maintenance Soon
+125.0,125.17,Healthy
+109.0,109.0,Healthy
+59.0,58.18,Maintenance Soon
+185.0,184.49,Healthy
+140.0,140.69,Healthy
+214.0,212.6,Healthy
+37.0,33.48,Maintenance Soon
+123.0,123.75,Healthy
+175.0,176.11,Healthy
+116.0,115.84,Healthy
+191.0,186.8,Healthy
+49.0,48.67,Maintenance Soon
+91.0,90.87,Maintenance Soon
+64.0,61.99,Maintenance Soon
+1388.47,1389.2900000000009,Healthy
+224.0,221.58,Healthy
+90.0,90.36,Maintenance Soon
+87.0,87.62,Maintenance Soon
+137.0,138.13,Healthy
+20.0,25.66,Critical
+183.0,183.75,Healthy
+166.0,166.75,Healthy
+72.0,76.51,Maintenance Soon
+40.0,40.14,Maintenance Soon
+107.0,106.65,Healthy
+79.0,78.63,Maintenance Soon
+58.0,58.15,Maintenance Soon
+73.0,73.1,Maintenance Soon
+100.0,100.11,Healthy
+232.0,232.32,Healthy
+34.0,33.5,Maintenance Soon
+62.0,62.41,Maintenance Soon
+148.0,147.84,Healthy
+9.0,10.73,Critical
+143.0,142.54,Healthy
+115.0,114.93,Healthy
+94.0,93.42,Maintenance Soon
+174.0,173.76,Healthy
+223.0,224.79,Healthy
+128.0,128.94,Healthy
+147.0,146.82,Healthy
+120.0,120.07,Healthy
+37.0,36.01,Maintenance Soon
+173.0,173.58,Healthy
+16.0,16.22,Critical
+72.0,72.19,Maintenance Soon
+176.0,175.79,Healthy
+69.0,69.45,Maintenance Soon
+165.0,164.98,Healthy
+77.0,76.84,Maintenance Soon
+89.0,88.67,Maintenance Soon
+137.0,137.19,Healthy
+0.0,9.23,Critical
+90.0,85.36,Maintenance Soon
+18.0,25.09,Critical
+133.0,132.55,Healthy
+44.0,49.15,Maintenance Soon
+91.0,90.42,Maintenance Soon
+78.0,77.66,Maintenance Soon
+144.0,143.77,Healthy
+113.0,113.28,Healthy
+132.0,131.65,Healthy
+92.0,91.93,Maintenance Soon
+14.0,21.58,Critical
+186.0,185.61,Healthy
+116.0,116.29,Healthy
+173.0,170.18,Healthy
+135.0,135.12,Healthy
+114.0,113.77,Healthy
+61.0,60.2,Maintenance Soon
+80.0,80.52,Maintenance Soon
+56.0,56.18,Maintenance Soon
+189.0,189.48,Healthy
+99.0,98.75,Maintenance Soon
+152.0,151.55,Healthy
+62.0,61.27,Maintenance Soon
+20.0,27.97,Critical
+10.0,7.89,Critical
+88.0,88.68,Maintenance Soon
+155.0,154.57,Healthy
+121.0,120.82,Healthy
+99.0,99.24,Maintenance Soon
+150.0,149.58,Healthy
+37.0,35.6,Maintenance Soon
+0.0,3.9,Critical
+82.0,82.06,Maintenance Soon
+198.0,198.49,Healthy
+95.0,94.78,Maintenance Soon
+54.0,53.1,Maintenance Soon
+69.0,70.33,Maintenance Soon
+48.0,41.67,Maintenance Soon
+155.0,154.97,Healthy
+30.0,33.85,Maintenance Soon
+109.0,108.17,Healthy
+3.0,6.53,Critical
+72.0,71.32,Maintenance Soon
+59.0,59.36,Maintenance Soon
+27.0,17.18,Critical
+81.0,81.03,Maintenance Soon
+16.0,13.41,Critical
+170.0,170.28,Healthy
+107.0,106.91,Healthy
+256.0,258.91,Healthy
+160.0,160.42,Healthy
+205.0,205.05,Healthy
+4.0,9.66,Critical
+278.0,279.94,Healthy
+123.0,122.23,Healthy
+104.0,103.7,Healthy
+110.0,110.0,Healthy
+72.0,71.71,Maintenance Soon
+50.0,48.08,Maintenance Soon
+173.0,172.61,Healthy
+147.0,147.35,Healthy
+137.0,137.17,Healthy
+39.0,25.16,Critical
+81.0,80.92,Maintenance Soon
+103.0,102.85,Healthy
+133.0,132.74,Healthy
+28.0,22.92,Critical
+35.0,29.98,Critical
+1360.47,1362.0900000000008,Healthy
+50.0,48.37,Maintenance Soon
+152.0,153.22,Healthy
+169.0,168.87,Healthy
+7.0,9.55,Critical
+104.0,104.42,Healthy
+197.0,197.44,Healthy
+44.0,45.22,Maintenance Soon
+71.0,71.1,Maintenance Soon
+140.0,139.54,Healthy
+88.0,88.12,Maintenance Soon
+122.0,122.22,Healthy
+124.0,126.3,Healthy
+2.0,4.79,Critical
+16.0,16.41,Critical
+191.0,191.25,Healthy
+167.0,164.04,Healthy
+112.0,111.16,Healthy
+41.0,38.03,Maintenance Soon
+57.0,57.21,Maintenance Soon
+57.0,58.14,Maintenance Soon
+85.0,85.26,Maintenance Soon
+150.0,149.38,Healthy
+12.0,9.18,Critical
+142.0,142.37,Healthy
+80.0,79.91,Maintenance Soon
+127.0,127.92,Healthy
+94.0,93.77,Maintenance Soon
+34.0,40.31,Maintenance Soon
+132.0,132.25,Healthy
+117.0,116.7,Healthy
+185.0,185.02,Healthy
+200.0,199.43,Healthy
+153.0,152.13,Healthy
+124.0,123.57,Healthy
+103.0,101.94,Healthy
+207.0,205.63,Healthy
+5.0,6.71,Critical
+26.0,25.89,Critical
+109.0,109.01,Healthy
+201.0,202.29,Healthy
+56.0,56.79,Maintenance Soon
+108.0,107.97,Healthy
+1.0,2.03,Critical
+162.0,162.52,Healthy
+7.0,11.38,Critical
+135.0,132.32,Healthy
+90.0,90.64,Maintenance Soon
+182.0,182.38,Healthy
+26.0,25.26,Critical
+185.0,184.32,Healthy
+26.0,28.34,Critical
+150.0,150.72,Healthy
+57.0,56.73,Maintenance Soon
+75.0,75.24,Maintenance Soon
+3.0,4.37,Critical
+27.0,28.84,Critical
+323.0,321.76,Healthy
+129.0,128.74,Healthy
+294.0,292.48,Healthy
+32.0,37.66,Maintenance Soon
+58.0,57.76,Maintenance Soon
+5.0,11.82,Critical
+102.0,101.51,Healthy
+253.0,253.89,Healthy
+183.0,182.81,Healthy
+78.0,78.03,Maintenance Soon
+124.0,123.68,Healthy
+77.0,77.21,Maintenance Soon
+16.0,26.31,Critical
+40.0,40.63,Maintenance Soon
+138.0,138.34,Healthy
+144.0,144.4,Healthy
+0.0,2.84,Critical
+57.0,57.54,Maintenance Soon
+67.0,65.64,Maintenance Soon
+224.0,221.73,Healthy
+124.0,123.66,Healthy
+149.0,149.55,Healthy
+117.0,116.54,Healthy
+134.0,131.66,Healthy
+122.0,121.93,Healthy
+72.0,72.13,Maintenance Soon
+90.0,90.7,Maintenance Soon
+81.0,80.91,Maintenance Soon
+58.0,56.19,Maintenance Soon
+4.0,8.03,Critical
+71.0,70.85,Maintenance Soon
+16.0,16.81,Critical
+115.0,115.36,Healthy
+101.0,101.33,Healthy
+15.0,27.24,Critical
+50.0,41.07,Maintenance Soon
+209.0,209.29,Healthy
+100.0,100.1,Healthy
+1261.47,1262.500000000001,Healthy
+48.0,41.67,Maintenance Soon
+59.0,58.75,Maintenance Soon
+147.0,146.89,Healthy
+237.0,237.35,Healthy
+110.0,110.39,Healthy
+180.0,179.75,Healthy
+50.0,47.89,Maintenance Soon
+181.0,178.68,Healthy
+271.0,274.21,Healthy
+158.0,158.54,Healthy
+183.0,182.51,Healthy
+137.0,129.56,Healthy
+118.0,118.11,Healthy
+2.0,4.96,Critical
+63.0,64.01,Maintenance Soon
+205.0,204.89,Healthy
+28.0,27.09,Critical
+2.0,4.74,Critical
+107.0,107.7,Healthy
+37.0,58.05,Maintenance Soon
+16.0,21.79,Critical
+130.0,129.48,Healthy
+196.0,197.14,Healthy
+1407.47,1402.710000000001,Healthy
+59.0,58.74,Maintenance Soon
+129.0,129.26,Healthy
+127.0,127.69,Healthy
+77.0,78.29,Maintenance Soon
+231.0,231.06,Healthy
+110.0,110.0,Healthy
+190.0,190.63,Healthy
+69.0,68.07,Maintenance Soon
+18.0,27.32,Critical
+143.0,140.69,Healthy
+104.0,103.11,Healthy
+150.0,151.65,Healthy
